@@ -1,0 +1,111 @@
+{
+  "listExpositor":
+  [
+    {
+      "orden":8,
+      "id":"godin",
+      "nombre": "Antoine Godin",
+      "rango":"Jefe de la Unidad de Modelado de la Agence Française de Développement",
+      "foto":"http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/godin.jpg",
+      "curriculum":"Antoine Godin es Jefe de la Unidad de Modelado y responsable del programa de desarrollo y seguimiento de la herramienta de modelación GEMMES: General Monetary and Multisectoral Macrodynamics for the Ecological Shift de la Agence Française de Développement. Esta herramienta es una de las pocas cuyos escenarios incluyen los riesgos económicos y financieros relacionados con el cambio climático y la creciente escasez de recursos resultante.\nEl Sr. Godin tiene un doctorado en Economía de la Universidad de Pavía, Maestrías en Cooperación y Desarrollo del Instituto de Estudios Avanzados de Pavía e Ingeniería en la Universidad Católica de Lovaina. Ha recibido el premio GRASFI al mejor trabajo de investigación en finanzas climáticas, el premio ESEE al mejor trabajo regular, el premio EAEPE Kapp y la mención especial de honor del premio EAEPE Kapp por su trabajo Caiani, A., Godin, A. y Lucarelli, S. (2014), “A Stock Flow Consistent Analysis of a Schumpeterian Innovation Economy”, Metroeconómica. Ha publicado numerosos artículos sobre aspectos metodológicos y teóricos, combinando varias vertientes de la literatura y aplicados a temas diversos como la economía ambiental, laboral o de la innovación, en revistas como el Journal of Evolutionary Economics, el Cambridge Journal of Economics y el Journal of Economic Dynamics and Control.",
+      "tema":"An introduction to Stock-Flow Consistent Models",
+      "descripcionTema":"",
+      "Exposicion":"Exposicion.plenaria",
+      "presentacionPDF":"http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/error2.pdf",
+      "presentacionDoc":"",
+      "aula":"Virtual",
+      "fechaExposicion":"20211005 14:30"
+
+    },
+     {
+      "orden":9,
+      "id":"perez",
+      "nombre": "Esteban Pérez",
+      "rango":"Jefe de la Unidad de Financiamiento para el Desarrollo de la División de Desarrollo Económico de la Comisión Económica para América Latina",
+      "foto":"http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/perez.jpg",
+      "curriculum":"Esteban Pérez es Jefe de la Unidad de Financiamiento para el Desarrollo de la División de Desarrollo Económico de la Comisión Económica para América Latina y el Caribe. Sus áreas de investigación se centran en macroeconomía, pensamiento económico, sistema financiero y pensamiento heterodoxo.\nEl Sr. Pérez tiene un doctorado y maestría en Economía de New School for Social Research, Nueva York. También imparte un curso sobre Modelos Económicos Alternativos con Aplicaciones a América Latina en la Universidad de Santiago de Chile y enseñó Economía post Keynesiana en la Universidad de Chile. Es miembro del Consejo Editorial de Investigación Económica de la Universidad Autónoma de México, del International Journal of Political Economy y del Review of Keynesian Economics de Estados Unidos de Norteamérica, así como coeditor del World Economic Review. Ha publicado extensamente sobre América Latina y el Caribe.",
+      "tema":"Stock-Flow Consistent Models for monetary policy design and management\nA three-gap model for sustainable development: theory and applications",
+      "descripcionTema":"",
+      "Exposicion":"Exposicion.plenaria",
+      "presentacionPDF":"http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/error2.pdf",
+      "presentacionDoc":"",
+      "aula":"Virtual",
+      "fechaExposicion":"20211005 09:00"
+    },
+     {
+      "orden":3,
+      "id":"chang",
+      "nombre": "Ha-Joon Chang",
+      "rango":"Profesor de la Universidad de Cambridge",
+      "foto":"http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/chang.jpg",
+      "curriculum":"Ha-Joon Chang es un destacado economista surcoreano. Tiene amplia experiencia en el campo de la economía del desarrollo y cuenta con numerosas publicaciones. Su formación como economista se inició en la Universidad Nacional de Seúl. Fue admitido en la Universidad de Cambridge y completó su programa en Economía y Política. Chang obtuvo su doctorado en Cambridge en 1992. Aceptó un puesto de profesor en la Facultad de Economía de Cambridge y desde entonces ha estado trabajando en la universidad.\nChang es considerado un economista heterodoxo e institucional y también ha obtenido un éxito considerable como escritor. A lo largo de su carrera profesional ha publicado numerosos artículos en importantes revistas y publicaciones académicas. Chang también ha escrito libros que han sido traducidos en 34 idiomas. El libro de Ha-Joon Chang, “Kicking Away the Ladder”, fue galardonado con el Premio Gunnar Myrdal en 2003 por la Asociación Europea de Economía Política Evolutiva y el premio Wassily Leontief del Instituto de Desarrollo Global y Medio Ambiente en 2005 por sus conocimientos en el campo de la economía.\nHa prestado servicios de consultoría a varios organismos de las Naciones Unidas, como la UNCTAD, el PNUD, el INTECH y la OIT. También ha prestado sus servicios al Banco Mundial, el Banco Asiático de Desarrollo y el Banco Europeo de Inversiones, así como a varias ONG. La experiencia de Chang ha sido reconocida internacionalmente y países como Brasil, Sudáfrica, Japón, Argentina, Canadá y el Reino Unido, entre otros, lo han contratado para que les brinde asesoramiento.",
+      "tema":"Plenaria I",
+      "descripcionTema":"",
+      "Exposicion":"Exposicion.plenaria",
+      "presentacionPDF":"http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/error2.pdf",
+      "presentacionDoc":"",
+      "aula":"Virtual",
+      "fechaExposicion":"20211007 10:00"
+    },
+     {
+      "orden":4,
+      "id":"kelton",
+      "nombre": "Stephanie Kelton",
+      "rango":"Profesora de la Stony Brook University",
+      "foto":"http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/kelton.jpg",
+      "curriculum":"Stephanie Kelton es profesora de economía y políticas públicas en la Universidad de Stony Brook. Es una destacada experta en teoría monetaria moderna y ex economista en jefe del Comité de Presupuesto del Senado de los Estados Unidos (por el partido demócrata). Fue asesora principal de las campañas presidenciales de Sanders en 2016 y 2020. La revista POLITICO la nombró como una de las 50 personas más influyentes en el debate político en Estados Unidos, Bloomberg la incluyó como una de las 50 personas que definieron 2019, Barron's la nombró como una de las 100 mujeres más influyentes en finanzas en 2020 y la revista Prospect la incluyó entre los 50 mejores pensadores del mundo en 2020.\nLa profesora Kelton asesora a los responsables de la formulación de políticas y realiza consultorías para bancos de inversión y administradores de portafolios de todo el mundo. Es comentarista habitual de radio y televisión en Estados Unidos. Su libro, “El mito del déficit”, se convirtió instantáneamente en un bestseller.",
+      "tema":"Plenaria II",
+      "descripcionTema":"",
+      "Exposicion":"Exposicion.plenaria",
+      "presentacionPDF":"http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/error2.pdf",
+      "presentacionDoc":"",
+      "aula":"Virtual",
+      "fechaExposicion":"20211007 11:15"
+    },
+    {
+      "orden":5,
+      "id":"lopetegui",
+      "nombre": "Gabriel Lopetegui",
+      "rango":"Consultor económico",
+      "foto":"http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/lopetegui.jpg",
+      "curriculum":"Gabriel Lopetegui tiene el grado de Master of Arts in Economics de la Universidad del Centro de Estudios Macroeconómicos de Argentina (1993). Desde enero de 2020 es consultor económico independiente. Trabajó previamente en el Fondo Monetario Internacional por cerca de 20 años siendo su último cargo en 2017 el de Director Ejecutivo para Argentina, Bolivia, Chile, Uruguay, Paraguay y Perú. En esta institución asesoró y representó a su país en las negociaciones de 2018 del acuerdo stand-by. Entre 1996 y 2000, ejerció el cargo de asesor del Presidente y subdirector del Departamento de Estudios del Sistema Bancario en el Banco Central de la República Argentina (BCRA). En el BCRA ejerció funciones destacadas en el diseño de una estrategia de supervisión bancaria: revisión del sistema de calificación, frecuencia y alcance de la evaluación de las instituciones financieras.",
+      "tema":"Plenaria III",
+      "descripcionTema":"",
+      "Exposicion":"Exposicion.plenaria",
+      "presentacionPDF":"http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/error2.pdf",
+      "presentacionDoc":"",
+      "aula":"Virtual",
+      "fechaExposicion":"20211007 12:00"
+    },
+    {
+      "orden":6,
+      "id":"bluemenstock",
+      "nombre": "Joshua Blumenstock",
+      "rango":"Profesor asociado de la UC Berkeley School of Information",
+      "foto":"http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/blumenstock.jpg",
+      "curriculum":"Joshua Blumenstock es profesor asociado de la Escuela de Información de la Universidad de California en Berkeley, director del Laboratorio de Desarrollo Intensivo de Datos y codirector del Centro para la Acción Efectiva Global. Su investigación se encuentra en la intersección del aprendizaje automático y la economía empírica, y se centra en el desarrollo de nuevos métodoss para comprender mejor las causas y consecuencias de la pobreza mundial.\nEl Sr. Blumenstock tiene un doctorado en Ciencias de la Información y una maestría en Economía de la Universidad de Berkeley, es licenciado en Informática y Física de la Wesleyan University. Recibió el premio CAREER de la National Science Foundation, del Programa Honor de la Facultad de Inteligencia, el premio Gates Millennium Grand Challenge, el premio Google de Investigación para Facultades y el UC Berkeley Chancellor's Award for Public Service. Su trabajo ha aparecido en una variedad de publicaciones, incluidas Science and Nature, así como en las principales revistas de economía (American Economic Review) y conferencias de ciencias de la computación.",
+      "tema":"Plenaria I",
+      "descripcionTema":"",
+      "Exposicion":"Exposicion.plenaria",
+      "presentacionPDF":"http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/error2.pdf",
+      "presentacionDoc":"",
+      "aula":"Virtual",
+      "fechaExposicion":"20211008 14:00"
+    },
+    {
+      "orden":7,
+      "id":"peters",
+      "nombre": "Enrique Dussel Peters",
+      "rango":"Profesor de la Universidad Autónoma de México",
+      "foto":"http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/peters.png",
+      "curriculum":"Enrique Dussel Peters es Doctor en Economía por la Universidad de Notre Dame (1996). Desde 1993 es Profesor Tiempo Completo en la División de Estudios de Posgrado de la Facultad de Economía de la Universidad Nacional Autónoma de México (UNAM). Coordinador del Centro de Estudios China-México de la Facultad de Economía de la UNAM y Coordinador de la Red Académica de América Latina y el Caribe sobre China (Red ALC-China). Miembro de Sistema Nacional de Investigadores (SNI), nivel 3. Autor de artículos y libros sobre organización industrial, desarrollo, procesos de segmentos de cadenas globales de valor y la relación de ALC-China en castellano, alemán, inglés y chino.",
+      "tema":"Plenaria II",
+      "descripcionTema":"",
+      "Exposicion":"Exposicion.plenaria",
+      "presentacionPDF":"http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/error2.pdf",
+      "presentacionDoc":"",
+      "aula":"Virtual",
+      "fechaExposicion":"20211008 14:45"
+    }
+  ]
+}
