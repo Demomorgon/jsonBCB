@@ -635,9 +635,9 @@
             "codigoExpositor":"",
             "detallePrograma":false,
             "codigoDetalle":"",
-            "padre":true,
-            "codigoPadre":"20221028-9-1",
-            "codigoHijo":"",
+            "padre":false,
+            "codigoPadre":"",
+            "codigoHijo":"20221028-9-1",
             "expositor": ["Marcelo Alejandro Montenegro Goméz García"],
             "enlaceT": [],
             "tipoT": []
