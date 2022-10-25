@@ -15,28 +15,37 @@
    "diaEvento":"20221025",
    "textoEvento":"25 Oct",
    "urlYoutube":"1",
-   "urlYHabilitado":true,
+   "urlYHabilitado":false,
    "urlFacebook":"1",
-   "urlFHabilitado":true,
+   "urlFHabilitado":false,
    "urlWebex":"1",
-   "urlWHabilitado":true
+   "urlWHabilitado":false
   },{
    "diaEvento":"20221026",
    "textoEvento":"26 Oct",
    "urlYoutube":"1",
-   "urlYHabilitado":true,
+   "urlYHabilitado":false,
    "urlFacebook":"1",
-   "urlFHabilitado":true,
+   "urlFHabilitado":false,
    "urlWebex":"1",
-   "urlWHabilitado":true
+   "urlWHabilitado":false
   },{
    "diaEvento":"20221027",
    "textoEvento":"27 Oct",
    "urlYoutube":"1",
-   "urlYHabilitado":true,
+   "urlYHabilitado":false,
    "urlFacebook":"1",
-   "urlFHabilitado":true,
+   "urlFHabilitado":false,
    "urlWebex":"1",
-   "urlWHabilitado":true
+   "urlWHabilitado":false
+  },{
+   "diaEvento":"20221028",
+   "textoEvento":"28 Oct",
+   "urlYoutube":"1",
+   "urlYHabilitado":false,
+   "urlFacebook":"1",
+   "urlFHabilitado":false,
+   "urlWebex":"1",
+   "urlWHabilitado":false
   }]
 }
