@@ -1,18 +1,18 @@
 {
     "listPrograma": [
-        {
+         {
             "orden": 1,
             "fechaTiempo1": "20221025 08:15",
             "fechaTiempo2": "20221025 08:45",
             "titulo": "Registro de participantes",
-            "lugar": "a",
+            "lugar": "",
             "adicional": "",
-            "detalleExpositor": true,
+            "detalleExpositor": false,
             "codigoExpositor": "",
             "detallePrograma": false,
             "codigoDetalle": "",
             "padre": true,
-            "codigoPadre": "",
+            "codigoPadre": "20221025-1",
             "codigoHijo": "",
             "expositor": [],
             "enlaceT": [],
@@ -23,14 +23,14 @@
             "fechaTiempo1": "20221025 08:45",
             "fechaTiempo2": "20221025 08:50",
             "titulo": "Palabras de bienvenida",
-            "lugar": "b",
+            "lugar": "",
             "adicional": "",
-            "detalleExpositor": true,
+            "detalleExpositor": false,
             "codigoExpositor": "",
             "detallePrograma": false,
             "codigoDetalle": "",
             "padre": true,
-            "codigoPadre": "",
+            "codigoPadre": "20221025-2",
             "codigoHijo": "",
             "expositor": [],
             "enlaceT": [],
@@ -48,7 +48,7 @@
             "detallePrograma": false,
             "codigoDetalle": "",
             "padre": true,
-            "codigoPadre": "",
+            "codigoPadre": "20221025-3",
             "codigoHijo": "",
             "expositor": [],
             "enlaceT": [],
@@ -66,7 +66,7 @@
             "detallePrograma": false,
             "codigoDetalle": "",
             "padre": true,
-            "codigoPadre": "20221025-1",
+            "codigoPadre": "20221025-4",
             "codigoHijo": "",
             "expositor": [],
             "enlaceT": [],
@@ -85,7 +85,7 @@
             "codigoDetalle": "",
             "padre": false,
             "codigoPadre": "",
-            "codigoHijo": "20221025-1-1",
+            "codigoHijo": "20221025-4-1",
             "expositor": [
                 "José Luis Torres Chacón"
             ],
@@ -105,7 +105,7 @@
             "codigoDetalle": "",
             "padre": false,
             "codigoPadre": "",
-            "codigoHijo": "20221025-1-2",
+            "codigoHijo": "20221025-4-2",
             "expositor": [
                 "José Luis Torres Chacón"
             ],
@@ -125,7 +125,7 @@
             "codigoDetalle": "",
             "padre": false,
             "codigoPadre": "",
-            "codigoHijo": "20221025-1-3",
+            "codigoHijo": "20221025-4-3",
             "expositor": [
                 "José Luis Torres Chacón"
             ],
@@ -145,7 +145,7 @@
             "codigoDetalle": "",
             "padre": false,
             "codigoPadre": "",
-            "codigoHijo": "20221025-1-4",
+            "codigoHijo": "20221025-4-4",
             "expositor": [
                 "José Luis Torres Chacón"
             ],
@@ -163,8 +163,8 @@
             "codigoExpositor": "gherbas",
             "detallePrograma": false,
             "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
+            "padre": true,
+            "codigoPadre": "20221025-5",
             "codigoHijo": "",
             "expositor": [
                 "Gabriel Herbas Camacho"
@@ -183,8 +183,8 @@
             "codigoExpositor": "",
             "detallePrograma": false,
             "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
+            "padre": true,
+            "codigoPadre": "20221025-6",
             "codigoHijo": "",
             "expositor": [
                 "Investigadores del BCB"
