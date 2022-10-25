@@ -224,7 +224,9 @@
             "padre":true,
             "codigoPadre":"20221026-2",
             "codigoHijo":"",
-            "expositor": []
+            "expositor": [],
+            "enlaceT": [],
+            "tipoT": []
           },
           {
             "orden":13,
@@ -240,7 +242,9 @@
             "padre":false,
             "codigoPadre":"",
             "codigoHijo":"20221026-2-1",
-            "expositor": ["José Luis Torres Chacón"]
+            "expositor": ["José Luis Torres Chacón"],
+            "enlaceT": [],
+            "tipoT": []
           },
           {
             "orden":14,
@@ -256,7 +260,9 @@
             "padre":false,
             "codigoPadre":"",
             "codigoHijo":"20221026-2-2",
-            "expositor": ["José Luis Torres Chacón"]
+            "expositor": ["José Luis Torres Chacón"],
+            "enlaceT": [],
+            "tipoT": []
           },
           {
             "orden":15,
@@ -272,7 +278,9 @@
             "padre":false,
             "codigoPadre":"",
             "codigoHijo":"20221026-2-3",
-            "expositor": ["José Luis Torres Chacón"]
+            "expositor": ["José Luis Torres Chacón"],
+            "enlaceT": [],
+            "tipoT": []
           },
           {
             "orden":15,
@@ -288,7 +296,9 @@
             "padre":false,
             "codigoPadre":"",
             "codigoHijo":"20221026-2-4",
-            "expositor": ["José Luis Torres Chacón"]
+            "expositor": ["José Luis Torres Chacón"],
+            "enlaceT": [],
+            "tipoT": []
           },
           {
             "orden":16,
@@ -304,7 +314,9 @@
             "padre":true,
             "codigoPadre":"20221026-3",
             "codigoHijo":"",
-            "expositor": ["Gumercindo Héctor Pino Guzmán"]
+            "expositor": ["Gumercindo Héctor Pino Guzmán"],
+            "enlaceT": [],
+            "tipoT": []
           },
           {
             "orden":17,
@@ -320,7 +332,9 @@
             "padre":true,
             "codigoPadre":"20221026-4",
             "codigoHijo":"",
-            "expositor": ["Investigadores del BCB"]
+            "expositor": ["Investigadores del BCB"],
+            "enlaceT": [],
+            "tipoT": []
           },
           {
             "orden":18,
@@ -336,7 +350,9 @@
             "padre":true,
             "codigoPadre":"20221027-1",
             "codigoHijo":"",
-            "expositor": []
+            "expositor": [],
+            "enlaceT": [],
+            "tipoT": []
           },
           {
             "orden":19,
@@ -352,7 +368,9 @@
             "padre":true,
             "codigoPadre":"20221027-2",
             "codigoHijo":"",
-            "expositor": ["Roger Edwin Rojas Ulo"]
+            "expositor": ["Roger Edwin Rojas Ulo"],
+            "enlaceT": [],
+            "tipoT": []
           },
           {
             "orden":20,
@@ -368,7 +386,9 @@
             "padre":true,
             "codigoPadre":"20221027-3",
             "codigoHijo":"",
-            "expositor": ["Luis Alberto Arce Catacora"]
+            "expositor": ["Luis Alberto Arce Catacora"],
+            "enlaceT": [],
+            "tipoT": []
           },{
             "orden":21,
             "fechaTiempo1": "20221027 10:00",
@@ -383,7 +403,9 @@
             "padre":true,
             "codigoPadre":"20221027-4",
             "codigoHijo":"",
-            "expositor": ["Carlos Pinkusfeld Monteiro Bastos"]
+            "expositor": ["Carlos Pinkusfeld Monteiro Bastos"],
+            "enlaceT": [],
+            "tipoT": []
           },
           {
             "orden":22,
@@ -399,7 +421,9 @@
             "padre":true,
             "codigoPadre":"20221027-5",
             "codigoHijo":"",
-            "expositor": ["Fernando Lorenzo"]
+            "expositor": ["Fernando Lorenzo"],
+            "enlaceT": [],
+            "tipoT": []
           },
           {
             "orden":23,
@@ -415,7 +439,9 @@
             "padre":true,
             "codigoPadre":"20221027-6",
             "codigoHijo":"",
-            "expositor": ["Manuel Ramos-Francia"]
+            "expositor": ["Manuel Ramos-Francia"],
+            "enlaceT": [],
+            "tipoT": []
           },
           {
             "orden":24,
@@ -431,7 +457,9 @@
             "padre":true,
             "codigoPadre":"20221027-7",
             "codigoHijo":"",
-            "expositor": []
+            "expositor": [],
+            "enlaceT": [],
+            "tipoT": []
           },
           {
             "orden":25,
@@ -447,7 +475,9 @@
             "padre":true,
             "codigoPadre":"20221028-1",
             "codigoHijo":"",
-            "expositor": []
+            "expositor": [],
+            "enlaceT": [],
+            "tipoT": []
           },
           {
             "orden":26,
@@ -463,7 +493,9 @@
             "padre":true,
             "codigoPadre":"20221028-2",
             "codigoHijo":"",
-            "expositor": []
+            "expositor": [],
+            "enlaceT": [],
+            "tipoT": []
           },
           {
             "orden":27,
@@ -479,7 +511,9 @@
             "padre":true,
             "codigoPadre":"20221028-3",
             "codigoHijo":"",
-            "expositor": ["Esteban Pérez Caldentey"]
+            "expositor": ["Esteban Pérez Caldentey"],
+            "enlaceT": [],
+            "tipoT": []
           },
           {
             "orden":28,
@@ -495,7 +529,9 @@
             "padre":true,
             "codigoPadre":"20221028-4",
             "codigoHijo":"",
-            "expositor": ["Kenneth Rogo"]
+            "expositor": ["Kenneth Rogo"],
+            "enlaceT": [],
+            "tipoT": []
           },
           {
             "orden":29,
@@ -511,7 +547,9 @@
             "padre":true,
             "codigoPadre":"20221028-5",
             "codigoHijo":"",
-            "expositor": []
+            "expositor": [],
+            "enlaceT": [],
+            "tipoT": []
           },
           {
             "orden":30,
@@ -527,7 +565,9 @@
             "padre":true,
             "codigoPadre":"20221028-6",
             "codigoHijo":"",
-            "expositor": [""]
+            "expositor": ["José Luis Torres Chacón"],
+            "enlaceT": [],
+            "tipoT": []
           },
           
           {
@@ -544,7 +584,9 @@
             "padre":true,
             "codigoPadre":"20221028-7",
             "codigoHijo":"",
-            "expositor": ["Eduardo Cortez Baldiviezo"]
+            "expositor": ["Eduardo Cortez Baldiviezo"],
+            "enlaceT": [],
+            "tipoT": []
           },
           {
             "orden":32,
@@ -560,7 +602,9 @@
             "padre":true,
             "codigoPadre":"20221028-8",
             "codigoHijo":"",
-            "expositor": ["Augusto Medinaceli Ortiz"]
+            "expositor": ["Augusto Medinaceli Ortiz"],
+            "enlaceT": [],
+            "tipoT": []
           },
           {
             "orden":33,
@@ -576,7 +620,9 @@
             "padre":true,
             "codigoPadre":"20221028-9",
             "codigoHijo":"",
-            "expositor": ["Marcelo Alejandro Montenegro Goméz García"]
+            "expositor": ["Marcelo Alejandro Montenegro Goméz García"],
+            "enlaceT": [],
+            "tipoT": []
           }
     ]
 }
