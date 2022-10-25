@@ -11,5 +11,41 @@
   "habilitado_noticias": true,
   "habilitado_sede": false,
   "habilitado_hospedaje": false,
-  "evento":[]
+  "evento":[{
+   "diaEvento":"20221025",
+   "textoEvento":"25 Oct",
+   "urlYoutube":"1",
+   "urlYHabilitado":true,
+   "urlFacebook":"1",
+   "urlFHabilitado":true,
+   "urlWebex":"1",
+   "urlWHabilitado":true
+  },{
+   "diaEvento":"20221026",
+   "textoEvento":"26 Oct",
+   "urlYoutube":"1",
+   "urlYHabilitado":true,
+   "urlFacebook":"1",
+   "urlFHabilitado":true,
+   "urlWebex":"1",
+   "urlWHabilitado":true
+  },{
+   "diaEvento":"20221027",
+   "textoEvento":"27 Oct",
+   "urlYoutube":"1",
+   "urlYHabilitado":true,
+   "urlFacebook":"1",
+   "urlFHabilitado":true,
+   "urlWebex":"1",
+   "urlWHabilitado":true
+  },{
+   "diaEvento":"20221028",
+   "textoEvento":"27 Oct",
+   "urlYoutube":"1",
+   "urlYHabilitado":true,
+   "urlFacebook":"1",
+   "urlFHabilitado":true,
+   "urlWebex":"1",
+   "urlWHabilitado":true
+  },]
 }
