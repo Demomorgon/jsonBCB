@@ -46,36 +46,6 @@
             "fechaExposicion": "20221026 17:00"
         },
         {
-            "orden": 4,
-            "id": "rrojas",
-            "nombre": "Roger Edwin Rojas Ulo",
-            "rango": "Presidente del Banco Central de Bolivia",
-            "foto": "http://intranet.bcb.gob.bo/system/files/styles/thumbnail/private/funcionarios/2691339.jpg?itok=w4CssIiw",
-            "curriculum": "",
-            "tema": "Palabras de bienvenida",
-            "descripcionTema": "",
-            "Exposicion": "Exposicion.plenaria",
-            "presentacionPDF": "http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/error2.pdf",
-            "presentacionDoc": "",
-            "aula": "Virtual",
-            "fechaExposicion": "20221027 09:00"
-        },
-        {
-            "orden": 5,
-            "id": "larce",
-            "nombre": "Luis Alberto Arce Catacora",
-            "rango": "Presidente Constitucional del Estado Plurinacional de Bolivia",
-            "foto": "https://upload.wikimedia.org/wikipedia/commons/7/72/Luis_Arce_%28Official_Photo%2C_2020%29_Cropped_II.png",
-            "curriculum": "",
-            "tema": "",
-            "descripcionTema": "",
-            "Exposicion": "Exposicion.plenaria",
-            "presentacionPDF": "http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/error2.pdf",
-            "presentacionDoc": "",
-            "aula": "Virtual",
-            "fechaExposicion": "20221027 09:30"
-        },
-        {
             "orden": 6,
             "id": "cmonteiro",
             "nombre": "Carlos Pinkusfeld Monteiro Bastos",
@@ -149,54 +119,8 @@
             "presentacionDoc": "",
             "aula": "Virtual",
             "fechaExposicion": "20221028 15:20"
-        },
-        {
-            "orden": 11,
-            "id": "ecortez",
-            "nombre": "Eduardo Cortez Baldiviezo",
-            "rango": "Rector de la Universidad Autónoma Juan Misael Saracho",
-            "foto": "https://firebasestorage.googleapis.com/v0/b/almacen-de-productos.appspot.com/o/ecortez.png?alt=media&token=5e2a66a8-6dfe-4419-8249-d11c40739e0e",
-            "curriculum": "",
-            "tema": "Palabras de cierre",
-            "descripcionTema": "",
-            "Exposicion": "Exposicion.plenaria",
-            "presentacionPDF": "http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/error2.pdf",
-            "presentacionDoc": "",
-            "aula": "Virtual",
-            "fechaExposicion": "20221028 16:50"
         }
-        ,
-        {
-            "orden": 12,
-            "id": "amedinaceli",
-            "nombre": "Augusto Medinaceli Ortiz",
-            "rango": "Rector de la Universidad Técnica de Oruro",
-            "foto": "https://firebasestorage.googleapis.com/v0/b/almacen-de-productos.appspot.com/o/amedinaceli.png?alt=media&token=91f2e6a1-de7a-4148-95c2-306e3901be0e",
-            "curriculum": "",
-            "tema": "Palabras de cierre",
-            "descripcionTema": "",
-            "Exposicion": "Exposicion.plenaria",
-            "presentacionPDF": "http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/error2.pdf",
-            "presentacionDoc": "",
-            "aula": "Virtual",
-            "fechaExposicion": "20221028 16:55"
-        }
-        ,
-        {
-            "orden": 13,
-            "id": "mmontenegro",
-            "nombre": "Marcelo Alejandro Montenegro Goméz Garcí",
-            "rango": "Ministro de Economía y Finanzas Públicas",
-            "foto": "https://firebasestorage.googleapis.com/v0/b/almacen-de-productos.appspot.com/o/mmontenegro.png?alt=media&token=0d28fd10-ab15-4b23-8c13-a24269daa1bd",
-            "curriculum": "",
-            "tema": "Clausura del 15EEB",
-            "descripcionTema": "",
-            "Exposicion": "Exposicion.plenaria",
-            "presentacionPDF": "http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/error2.pdf",
-            "presentacionDoc": "",
-            "aula": "Virtual",
-            "fechaExposicion": "20221028 17:00"
-        }
+        
         
     ]
 }
