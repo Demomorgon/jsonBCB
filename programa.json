@@ -1,6 +1,176 @@
 {
-  "listPrograma":
-  [    
-    
-  ]
+    "listPrograma": [
+        {
+            "orden": 1,
+            "fechaTiempo1": "20221025 08:15",
+            "fechaTiempo2": "20221025 08:45",
+            "titulo": "Registro de participantes",
+            "lugar": "",
+            "adicional": "",
+            "detalleExpositor": false,
+            "codigoExpositor": "",
+            "detallePrograma": false,
+            "codigoDetalle": "",
+            "padre": false,
+            "codigoPadre": "",
+            "codigoHijo": "",
+            "expositor": []
+        },
+        {
+            "orden": 2,
+            "fechaTiempo1": "20221025 08:45",
+            "fechaTiempo2": "20221025 08:50",
+            "titulo": "Palabras de bienvenida",
+            "lugar": "",
+            "adicional": "",
+            "detalleExpositor": false,
+            "codigoExpositor": "",
+            "detallePrograma": false,
+            "codigoDetalle": "",
+            "padre": false,
+            "codigoPadre": "",
+            "codigoHijo": "",
+            "expositor": []
+        },
+        {
+            "orden": 3,
+            "fechaTiempo1": "20221025 08:50",
+            "fechaTiempo2": "20221025 09:00",
+            "titulo": "Inauguración del ciclo de conferencias del Decimoquinto Encuentro de Economistas de Bolivia: Modelos de Equilibrio General Dinámico Estocástico (DSGE)",
+            "lugar": "",
+            "adicional": "",
+            "detalleExpositor": false,
+            "codigoExpositor": "",
+            "detallePrograma": false,
+            "codigoDetalle": "",
+            "padre": false,
+            "codigoPadre": "",
+            "codigoHijo": "",
+            "expositor": []
+        },
+        {
+            "orden": 4,
+            "fechaTiempo1": "20221025 09:00",
+            "fechaTiempo2": "20221025 16:00",
+            "titulo": "Sesiones Plenarias",
+            "lugar": "Virtual",
+            "adicional": "",
+            "detalleExpositor": false,
+            "codigoExpositor": "",
+            "detallePrograma": false,
+            "codigoDetalle": "",
+            "padre": true,
+            "codigoPadre": "20221025-1",
+            "codigoHijo": "",
+            "expositor": []
+        },
+        {
+            "orden": 5,
+            "fechaTiempo1": "20221025 09:00",
+            "fechaTiempo2": "20221025 10:30",
+            "titulo": "Sesión 1: Introducción a los modelos de Equilibrio General Dinámico Estocástico (DSGE) – virtua",
+            "lugar": "Virtual",
+            "adicional": "Profesor de la Universidad de Málaga",
+            "detalleExpositor": true,
+            "codigoExpositor": "",
+            "detallePrograma": false,
+            "codigoDetalle": "",
+            "padre": false,
+            "codigoPadre": "",
+            "codigoHijo": "20221025-1-1",
+            "expositor": [
+                "José Luis Torres Chacón"
+            ]
+        },
+        {
+            "orden": 6,
+            "fechaTiempo1": "20221025 10:45",
+            "fechaTiempo2": "20221025 12:00",
+            "titulo": "Sesión 1: Introducción a los modelos de Equilibrio General Dinámico Estocástico (DSGE) – virtua",
+            "lugar": "Virtual",
+            "adicional": "Profesor de la Universidad de Málaga",
+            "detalleExpositor": true,
+            "codigoExpositor": "",
+            "detallePrograma": false,
+            "codigoDetalle": "",
+            "padre": false,
+            "codigoPadre": "",
+            "codigoHijo": "20221025-1-2",
+            "expositor": [
+                "José Luis Torres Chacón"
+            ]
+        },
+        {
+            "orden": 7,
+            "fechaTiempo1": "20221025 13:00",
+            "fechaTiempo2": "20221025 14:30",
+            "titulo": "Sesión 2: Solución numérica de los modelos DSGE – virtual",
+            "lugar": "Virtual",
+            "adicional": "Profesor de la Universidad de Málaga",
+            "detalleExpositor": true,
+            "codigoExpositor": "",
+            "detallePrograma": false,
+            "codigoDetalle": "",
+            "padre": false,
+            "codigoPadre": "",
+            "codigoHijo": "20221025-1-3",
+            "expositor": [
+                "José Luis Torres Chacón"
+            ]
+        },
+        {
+            "orden": 8,
+            "fechaTiempo1": "20221025 14:45",
+            "fechaTiempo2": "20221025 16:00",
+            "titulo": "Sesión 2: Solución numérica de los modelos DSGE – virtual",
+            "lugar": "Virtual",
+            "adicional": "Profesor de la Universidad de Málaga",
+            "detalleExpositor": true,
+            "codigoExpositor": "jchacon",
+            "detallePrograma": false,
+            "codigoDetalle": "",
+            "padre": false,
+            "codigoPadre": "",
+            "codigoHijo": "20221025-1-4",
+            "expositor": [
+                "José Luis Torres Chacón"
+            ]
+        },
+        {
+            "orden": 9,
+            "fechaTiempo1": "20221025 17:00",
+            "fechaTiempo2": "20221025 19:00",
+            "titulo": "Presentación del Informe de Política Monetaria (presencial, Tarija)",
+            "lugar": "Tarija",
+            "adicional": "Director del Banco Central de Bolivia",
+            "detalleExpositor": true,
+            "codigoExpositor": "gherbas",
+            "detallePrograma": false,
+            "codigoDetalle": "",
+            "padre": false,
+            "codigoPadre": "",
+            "codigoHijo": "",
+            "expositor": [
+                "Gabriel Herbas Camacho"
+            ]
+        },
+        {
+            "orden": 10,
+            "fechaTiempo1": "20221025 17:00",
+            "fechaTiempo2": "20221025 19:00",
+            "titulo": "Presentación de documento de investigación (presencial, Oruro)",
+            "lugar": "Oruro",
+            "adicional": "Investigadores del BCB",
+            "detalleExpositor": false,
+            "codigoExpositor": "",
+            "detallePrograma": false,
+            "codigoDetalle": "",
+            "padre": false,
+            "codigoPadre": "",
+            "codigoHijo": "",
+            "expositor": [
+                "Investigadores del BCB"
+            ]
+        }
+    ]
 }
