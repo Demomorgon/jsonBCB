@@ -823,8 +823,8 @@
             "expositor": [
                 "Marcelo Alejandro Montenegro Goméz García"
             ],
-            "enlaceT": [],
-            "tipoT": []
+            "enlaceT": ["www.google.com","www.facebook.com"],
+            "tipoT": ["Google","Facebook"]
         }
     ]
 }
