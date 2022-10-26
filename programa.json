@@ -823,7 +823,7 @@
             "expositor": [
                 "Marcelo Alejandro Montenegro Goméz García"
             ],
-            "enlaceT": ["www.google.com","www.facebook.com"],
+            "enlaceT": ["https://webmail.bcb.gob.bo/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fwebmail.bcb.gob.bo%2fowa%2f","https://webmail.bcb.gob.bo/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fwebmail.bcb.gob.bo%2fowa%2f"],
             "tipoT": ["Google","Facebook"]
         }
     ]
