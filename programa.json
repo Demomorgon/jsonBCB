@@ -823,8 +823,8 @@
             "expositor": [
                 "Marcelo Alejandro Montenegro Goméz García"
             ],
-            "enlaceT": ["https://webmail.bcb.gob.bo/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fwebmail.bcb.gob.bo%2fowa%2f","https://webmail.bcb.gob.bo/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fwebmail.bcb.gob.bo%2fowa%2f"],
-            "tipoT": ["Google","Facebook"]
+            "enlaceT": ["http://eeb.bcb.gob.bo/content/programa-sesiones-paralelas-28-de-octubre"],
+            "tipoT": ["Sesiones"]
         }
     ]
 }
