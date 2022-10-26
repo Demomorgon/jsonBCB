@@ -15,36 +15,8 @@
             "aula": "Virtual",
             "fechaExposicion": "20221025 09:00"
         },
-        {
-            "orden": 2,
-            "id": "gherbas",
-            "nombre": "Gabriel Herbas Camacho",
-            "rango": "Director del Banco Central de Bolivia",
-            "foto": "http://intranet.bcb.gob.bo/system/files/styles/thumbnail/private/funcionarios/959430.jpg?itok=aj0kuP-o",
-            "curriculum": "",
-            "tema": "Presentación del Informe de Política Monetaria\nPresentación de documento de investigación",
-            "descripcionTema": "",
-            "Exposicion": "Exposicion.plenaria",
-            "presentacionPDF": "http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/error2.pdf",
-            "presentacionDoc": "",
-            "aula": "Presencial, Tarija",
-            "fechaExposicion": "20221025 17:00"
-        },
-        {
-            "orden": 3,
-            "id": "gpino",
-            "nombre": "Gumercindo Héctor Pino Guzmán",
-            "rango": "",
-            "foto": "http://intranet.bcb.gob.bo/system/files/styles/thumbnail/private/funcionarios/pino_guzman.jpg?itok=fMN0xcXO",
-            "curriculum": "",
-            "tema": "Presentación del Informe de Política Monetaria",
-            "descripcionTema": "",
-            "Exposicion": "Exposicion.plenaria",
-            "presentacionPDF": "http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/error2.pdf",
-            "presentacionDoc": "",
-            "aula": "Presencial, Oruro",
-            "fechaExposicion": "20221026 17:00"
-        },
+       
+       
         {
             "orden": 6,
             "id": "cmonteiro",
