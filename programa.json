@@ -575,8 +575,8 @@
             "codigoPadre": "20221027-7",
             "codigoHijo": "",
             "expositor": [],
-            "enlaceT": [],
-            "tipoT": []
+            "enlaceT": ["http://eeb.bcb.gob.bo/content/programa-sesiones-paralelas-27-de-octubre"],
+            "tipoT": ["Sesiones"]
         },
         {
             "orden": 30,
@@ -593,8 +593,8 @@
             "codigoPadre": "20221028-1",
             "codigoHijo": "",
             "expositor": [],
-            "enlaceT": [],
-            "tipoT": []
+            "enlaceT": ["http://eeb.bcb.gob.bo/content/programa-sesiones-paralelas-28-de-octubre"],
+            "tipoT": ["Sesiones"]
         },
         {
             "orden": 31,
@@ -823,8 +823,8 @@
             "expositor": [
                 "Marcelo Alejandro Montenegro Goméz García"
             ],
-            "enlaceT": ["http://eeb.bcb.gob.bo/content/programa-sesiones-paralelas-28-de-octubre"],
-            "tipoT": ["Sesiones"]
+            "enlaceT": [],
+            "tipoT": []
         }
     ]
 }
