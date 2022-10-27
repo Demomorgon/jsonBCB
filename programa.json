@@ -541,7 +541,7 @@
             "tipoT": []
         },
         {
-            "orden": 27,
+            "orden": 29,
             "fechaTiempo1": "20221027 12:10",
             "fechaTiempo2": "20221027 12:55",
             "titulo": "Política monetaria convencional y no convencional y su relación con la recuperación económica",
@@ -561,7 +561,7 @@
             "tipoT": []
         },
         {
-            "orden": 29,
+            "orden": 30,
             "fechaTiempo1": "20221027 14:30",
             "fechaTiempo2": "20221027 17:00",
             "titulo": "Sesiones paralelas (virtual):\n• Documentos de investigación\n• Oportunidades académicas y laborales",
@@ -579,7 +579,7 @@
             "tipoT": ["Sesiones"]
         },
         {
-            "orden": 30,
+            "orden": 31,
             "fechaTiempo1": "20221028 09:00",
             "fechaTiempo2": "20221028 11:30",
             "titulo": "Sesiones paralelas (virtual):\n• Documentos de investigación\n• Oportunidades académicas y laborales",
@@ -597,7 +597,7 @@
             "tipoT": ["Sesiones"]
         },
         {
-            "orden": 31,
+            "orden": 32,
             "fechaTiempo1": "20221028 13:00",
             "fechaTiempo2": "20221028 14:30",
             "titulo": "Registro de participantes y entrega de refrigerio",
@@ -615,7 +615,7 @@
             "tipoT": []
         },
         {
-            "orden": 32,
+            "orden": 33,
             "fechaTiempo1": "20221028 14:30",
             "fechaTiempo2": "20221028 16:05",
             "titulo": "Presentación",
@@ -635,7 +635,7 @@
             "tipoT": []
         },
         {
-            "orden": 33,
+            "orden": 34,
             "fechaTiempo1": "20221028 14:30",
             "fechaTiempo2": "20221028 15:15",
             "titulo": "Oportunidades y desafíos de la sustitución de importaciones para el crecimiento, estabilidad y sostenibilidad",
@@ -655,7 +655,7 @@
             "tipoT": []
         },
         {
-            "orden": 34,
+            "orden": 35,
             "fechaTiempo1": "20221028 15:20",
             "fechaTiempo2": "20221028 16:05",
             "titulo": "Hechos históricos económicos, lecciones aprendidas y prospectiva para la recuperación económica",
@@ -669,13 +669,13 @@
             "codigoPadre": "",
             "codigoHijo": "20221028-3-2",
             "expositor": [
-                "Kenneth Rogo"
+                "Kenneth Rogoff"
             ],
             "enlaceT": [],
             "tipoT": []
         },
         {
-            "orden": 35,
+            "orden": 36,
             "fechaTiempo1": "20221028 16:15",
             "fechaTiempo2": "20221028 16:45",
             "titulo": "Premiación a los ganadores del concurso de documentos",
@@ -693,7 +693,7 @@
             "tipoT": []
         },
         {
-            "orden": 36,
+            "orden": 37,
             "fechaTiempo1": "20221028 16:45",
             "fechaTiempo2": "20221028 16:50",
             "titulo": "Palabras de circunstancia",
@@ -711,7 +711,7 @@
             "tipoT": []
         },
         {
-            "orden": 37,
+            "orden": 38,
             "fechaTiempo1": "20221028 16:45",
             "fechaTiempo2": "20221028 16:50",
             "titulo": "",
@@ -731,7 +731,7 @@
             "tipoT": []
         },
         {
-            "orden": 38,
+            "orden": 39,
             "fechaTiempo1": "20221028 16:50",
             "fechaTiempo2": "20221028 17:00",
             "titulo": "Palabras de cierre",
@@ -749,7 +749,7 @@
             "tipoT": []
         },
         {
-            "orden": 39,
+            "orden": 40,
             "fechaTiempo1": "20221028 16:50",
             "fechaTiempo2": "20221028 16:55",
             "titulo": "",
@@ -769,7 +769,7 @@
             "tipoT": []
         },
         {
-            "orden": 40,
+            "orden": 41,
             "fechaTiempo1": "20221028 16:55",
             "fechaTiempo2": "20221028 17:00",
             "titulo": "",
@@ -789,7 +789,7 @@
             "tipoT": []
         },
         {
-            "orden": 41,
+            "orden": 42,
             "fechaTiempo1": "20221028 17:00",
             "fechaTiempo2": "20221028 17:30",
             "titulo": "Clausura del 15EEB",
@@ -807,7 +807,7 @@
             "tipoT": []
         },
         {
-            "orden": 42,
+            "orden": 43,
             "fechaTiempo1": "20221028 17:00",
             "fechaTiempo2": "20221028 17:30",
             "titulo": "",
