@@ -1,6 +1,6 @@
 {
   "modulo": "EEB",
-  "fecha": "20221025",
+  "fecha": "20231007",
   "identificador": 1,
   "habilitado": true,
   "habilitado_ingreso": true,
@@ -11,41 +11,5 @@
   "habilitado_noticias": true,
   "habilitado_sede": false,
   "habilitado_hospedaje": false,
-  "evento":[{
-   "diaEvento":"20221025",
-   "textoEvento":"25 Oct",
-   "urlYoutube":"1",
-   "urlYHabilitado":false,
-   "urlFacebook":"1",
-   "urlFHabilitado":false,
-   "urlWebex":"https://bcbbolivia.webex.com/wbxmjs/joinservice/sites/bcbbolivia-es/meeting/download/419723931db84130babc85eca99d14dd?siteurl=bcbbolivia-es&MTID=m6bbb4572a061e0c40086f3fead8fa874",
-   "urlWHabilitado":true
-  },{
-   "diaEvento":"20221026",
-   "textoEvento":"26 Oct",
-   "urlYoutube":"1",
-   "urlYHabilitado":false,
-   "urlFacebook":"1",
-   "urlFHabilitado":false,
-   "urlWebex":"https://bcbbolivia.webex.com/wbxmjs/joinservice/sites/bcbbolivia-es/meeting/download/419723931db84130babc85eca99d14dd?siteurl=bcbbolivia-es&MTID=m6bbb4572a061e0c40086f3fead8fa874",
-   "urlWHabilitado":true
-  },{
-   "diaEvento":"20221027",
-   "textoEvento":"27 Oct",
-   "urlYoutube":"1",
-   "urlYHabilitado":false,
-   "urlFacebook":"1",
-   "urlFHabilitado":false,
-   "urlWebex":"1",
-   "urlWHabilitado":false
-  },{
-   "diaEvento":"20221028",
-   "textoEvento":"28 Oct",
-   "urlYoutube":"1",
-   "urlYHabilitado":false,
-   "urlFacebook":"1",
-   "urlFHabilitado":false,
-   "urlWebex":"1",
-   "urlWHabilitado":false
-  }]
+  "evento":[]
 }
