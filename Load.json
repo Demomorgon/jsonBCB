@@ -2,7 +2,7 @@
   "modulo": "EEB",
   "fecha": "20231007",
   "identificador": 1,
-  "habilitado": false,
+  "habilitado": true,
   "habilitado_ingreso": true,
   "habilitado_programa": true,
   "habilitado_expositor": true,
