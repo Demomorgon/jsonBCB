@@ -9,7 +9,7 @@
   "habilitado_expositor_plenarias": true,
   "habilitado_expositor_paralelas": false,
   "habilitado_noticias": true,
-  "habilitado_sede": false,
+  "habilitado_sede": true,
   "habilitado_hospedaje": false,
   "evento":[{
    "diaEvento":"20221025",
