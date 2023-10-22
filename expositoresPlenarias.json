@@ -1,98 +1,79 @@
 {
-    "listExpositor": [
-        {
-            "orden": 1,
-            "id": "jtorres",
-            "nombre": "José Luis Torres Chacón",
-            "rango": "Profesor de la Universidad de Málaga",
-            "foto": "https://firebasestorage.googleapis.com/v0/b/almacen-de-productos.appspot.com/o/jchacon.jpg?alt=media&token=49325010-5da2-407b-870f-def5e26c0444",
-            "curriculum": "José Luis Torres Chacón es Catedrático de Macroeconomía en el Departamento de Economía de la Universidad de Málaga. Obtuvo el grado de Economista por la Universidad de Málaga. Es Doctor en Economía por la Universidad Nacional de Educación a Distancia de Madrid, tomó cursos de doctorado en la European University Institute, Italia.\nSe desempeñó como Director del Departamento de Economía Análisis y Pronóstico en el Departamento de Estudios Económicos del Banco UNICAJA. Su investigación se centra principalmente en Modelos de Equilibrio General Dinámico Estocástico, cambio tecnológico y política fiscal. Tiene publicaciones en revistas como Review of Economic Dynamics, Macroeconomic Dynamics, Research Policy, Journal of Macroeconomics, Public Choice, entre otras.",
-            "tema": "Introducción a los modelos de Equilibrio General Dinámico Estocástico (DSGE) – virtual",
-            "descripcionTema": "",
-            "Exposicion": "Exposicion.plenaria",
-            "presentacionPDF": "http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/error2.pdf",
-            "presentacionDoc": "",
-            "aula": "Virtual",
-            "fechaExposicion": "20221025 09:00"
-        },
-       
-       
-        {
-            "orden": 6,
-            "id": "cmonteiro",
-            "nombre": "Carlos Pinkusfeld Monteiro Bastos",
-            "rango": "Profesor de la Universidad Federal de Rio de Janeiro",
-            "foto": "https://firebasestorage.googleapis.com/v0/b/almacen-de-productos.appspot.com/o/cmonteiro.jpg?alt=media&token=5c24d410-e239-4cd7-a334-5263c9315976",
-            "curriculum": "Carlos Pinkusfeld Monteiro Bastos es Profesor Asociado en la Universidad Federal de Río de Janeiro. Tiene una maestría en Economía de Industria y Tecnología de la Universidad Federal de Río de Janeiro y un Doctorado en Economía de la New School for Social Research, Nueva York. Miembro investigador del Grupo de Economía Política y Presidente del Centro Celso Furtado. Ganó el premio de tesis de maestría del Banco de Desarrollo de Brasil.\nSu trabajo se enfoca principalmente en temas de inflación, política económica, finanzas funcionales, desarrollo económico y déficit público, así como en economía del sector público con un enfoque heterodoxo.",
-            "tema": "Evaluación de la dinámica inflacionaria, empleo y ciclos económicos",
-            "descripcionTema": "",
-            "Exposicion": "Exposicion.plenaria",
-            "presentacionPDF": "http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/error2.pdf",
-            "presentacionDoc": "",
-            "aula": "Virtual",
-            "fechaExposicion": "20221027 10:00"
-        },
-        {
-            "orden": 7,
-            "id": "florenzo",
-            "nombre": "Fernando Lorenzo",
-            "rango": "Ex Ministro de Economía de la República Oriental del Uruguay",
-            "foto": "https://firebasestorage.googleapis.com/v0/b/almacen-de-productos.appspot.com/o/florenzo.jpg?alt=media&token=5e241fa9-c8b6-4368-a07b-c8860d58c539",
-            "curriculum": "Fernando Lorenzo Estefan es Investigador Senior del Centro de Investigaciones Económicas (CINVE). Economista de la Facultad de Ciencias Económicas y de Administración de la Universidad de la República (Uruguay), tiene un doctorado en economía de la Universidad Carlos III de Madrid, además de un Diploma de Estudios Avanzados en Economía y Finanzas Internacionales de la Universidad París-Dauphine.\nFue Ministro de Economía y Finanzas de Uruguay y se desempeñó como consultor  en temas de política económica y ambiental, cambio climático y fortalecimiento institucional, principalmente en América del Sur. Su producción académica se centra en política económica ambiental y de cambio climático, macroeconomía y comercio internacional.",
-            "tema": "Cambio climático y sus efectos en la recuperación económica",
-            "descripcionTema": "",
-            "Exposicion": "Exposicion.plenaria",
-            "presentacionPDF": "http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/error2.pdf",
-            "presentacionDoc": "",
-            "aula": "Virtual",
-            "fechaExposicion": "20221027 11:15"
-        },
-        {
-            "orden": 8,
-            "id": "mramos",
-            "nombre": "Manuel Ramos-Francia",
-            "rango": "Director General del Centro de Estudios Monetarios Latinoamericanos",
-            "foto": "https://firebasestorage.googleapis.com/v0/b/almacen-de-productos.appspot.com/o/mramos.jpg?alt=media&token=dbe2d257-9f12-44db-ac38-511b5780e16d",
-            "curriculum": "Manuel Ramos Francia es Director General del Centro de Estudios Monetarios Latinoamericanos. Licenciado en Economía por el Instituto Tecnológico Autónomo de México. Fue acreedor a la beca Fulbright y obtuvo el doctorado en economía por la Universidad de Yale, habiéndose especializado en teoría económica avanzada y economía financiera.\nSe desempeñó como Director General de Planeación Hacendaria y Coordinador de Asesores del Secretario en la Secretaría de Hacienda y Crédito Público, además de ocupar distintos cargos en el Banco de México. Ha publicado artículos sobre política monetaria y fiscal, crecimiento económico y economía internacional en revistas como el Journal of Money, Credit and Banking, Economics Letters, Journal of Financial Stability, Quarterly Journal of Finance, así como en libros especializados.",
-            "tema": "Política monetaria convencional y no convencional y su relación con la recuperación económica",
-            "descripcionTema": "",
-            "Exposicion": "Exposicion.plenaria",
-            "presentacionPDF": "http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/error2.pdf",
-            "presentacionDoc": "",
-            "aula": "Virtual",
-            "fechaExposicion": "20221027 12:10"
-        },
-        {
-            "orden": 9,
-            "id": "eperez",
-            "nombre": "Esteban Pérez Caldentey",
-            "rango": "Oficial Superior de Asuntos Económicos de la CEPAL",
-            "foto": "https://firebasestorage.googleapis.com/v0/b/almacen-de-productos.appspot.com/o/eperez.png?alt=media&token=3bf82b96-13ca-470d-80c6-01b6581bb1cb",
-            "curriculum": "Esteban Pérez es Oficial Superior de Asuntos Económicos de la Comisión Económica para América Latina y el Caribe. Sus áreas de investigación se centran en macroeconomía, pensamiento económico, sistema financiero y pensamiento heterodoxo.\nTiene un doctorado y una maestría en Economía de la New School for Social Research de Nueva York. Impartió un curso sobre Modelos Económicos Alternativos con Aplicaciones a América Latina en la Universidad de Santiago de Chile y enseñó Economía post Keynesiana en la Universidad de Chile. Es miembro del Consejo Editorial de Investigación Económica de la Universidad Nacional Autónoma de México, del International Journal of Political Economy y del Review of Keynesian Economics. Además es coeditor del World Economic Review y ha publicado extensamente sobre América Latina y el Caribe.",
-            "tema": "Oportunidades y desafíos de la sustitución de importaciones para el crecimiento, estabilidad y sostenibilidad",
-            "descripcionTema": "",
-            "Exposicion": "Exposicion.plenaria",
-            "presentacionPDF": "http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/error2.pdf",
-            "presentacionDoc": "",
-            "aula": "Virtual",
-            "fechaExposicion": "20221028 14:30"
-        },
-        {
-            "orden": 10,
-            "id": "krogoff",
-            "nombre": "Kenneth Rogoff",
-            "rango": "Profesor de la Universidad de Harvard",
-            "foto": "https://firebasestorage.googleapis.com/v0/b/almacen-de-productos.appspot.com/o/krogoff.jpg?alt=media&token=bfb16fec-680b-43eb-9019-dd54f2f67582",
-            "curriculum": "Keneth Rogoff es profesor de economía en la Universidad de Harvard y miembro electo de la Academia Nacional de Ciencias, la Academia Estadounidense de Artes y Ciencias, el Grupo de los Treinta y miembro principal del Consejo de Relaciones Exteriores.\nSu principal campo de investigación son las finanzas internacionales, aunque su trabajo también abarca temas de economía política y macroeconomía. Algunos de los tópicos que ha estudiado incluyen crisis financieras internacionales, tipos de cambio, desequilibrios en cuenta corriente y ciclos presupuestarios políticos. Su libro ampliamente citado de 2009 con Carmen Reinhart, This Time Is Different: Eight Centuries of Financial Folly, muestra las notables similitudes cuantitativas a través del tiempo y los países en el periodo previo y posterior a las graves crisis financieras.\nSe desempeñó como Economista Jefe del Fondo Monetario Internacional y fue director del Centro de Harvard para el Desarrollo Internacional. Está entre los diez primeros economistas en el ranking de RePEc por citas académicas, además es un gran maestro internacional de ajedrez.",
-            "tema": "Hechos históricos económicos, lecciones aprendidas y prospectiva para la recuperación económica",
-            "descripcionTema": "",
-            "Exposicion": "Exposicion.plenaria",
-            "presentacionPDF": "http://eeb.bcb.gob.bo/revisores/EEB_movil_BCB/expositor/plenarias/error2.pdf",
-            "presentacionDoc": "",
-            "aula": "Virtual",
-            "fechaExposicion": "20221028 15:20"
-        }
-        
-        
-    ]
+   "listExpositor":[
+      {
+         "orden":0,
+         "id":"cgiraldo",
+         "nombre":"Carlos Giraldo",
+         "rango":"Director de Estudios Económicos del Fondo Latinoamericano de Reservas",
+         "foto":"",
+         "curriculum":"Es Director de estudios económicos en el Fondo Latinoamericano de Reservas (FLAR), donde ha trabajado desde 2004, mismo en el que ha sido director de investigación y desarrollo, director adjunto de estudios económicos, economista internacional y economista junior. Es Doctor en economía por la Universidad del Rosario, Colombia; maestro en economía ambiental y recursos naturales de las universidades de los Andes y de Maryland, maestro en economía de la Universidad de los Andes y economista de la Universidad de Antioquia. Ha sido profesor en estas últimas dos universidades.\nSus áreas de interés académico son macroeconomía, política monetaria, macroeconomía internacional y red de seguridad financiera global.",
+         "tema":"Consideraciones sobre la implementación de políticas monetarias enfocadas al control de presiones inflacionarias",
+         "descripcionTema":"",
+         "exposicion":"Exposicion.plenaria",
+         "presentacionPdf":"",
+         "presentacionDoc":"",
+         "aula":"Virtual",
+         "fechaExposicion":"20231026"
+      },
+      {
+         "orden":0,
+         "id":"malessandro",
+         "nombre":"Mercedes D'Alessandro",
+         "rango":"Ex Directora Nacional de Economía, Igualdad y Género de Argentina",
+         "foto":"1",
+         "curriculum":"Mercedes D'Alessandro es una economista y escritora argentina que tiene un Doctorado en Economía por la Universidad de Buenos Aires y que en la actualidad es Directora de la Licenciatura en Economía en la Universidad Metropolitana para la Educación y el Trabajo y Profesora de la materia de Economía Feminista de la Facultad de Ciencias Económicas en la Universidad de Avellaneda. \nLa Dra. D’Alessandro fue Directora Nacional de Economía, Igualdad y Género en el Ministerio de Economía de la Argentina, profesora en diversas universidades y posgrados, así como directora de la carrera de Economía Política de la Universidad Nacional de General Sarmiento. Del mismo modo, fue consultora del Banco Interamericano de Desarrollo y de la Organización de Estados Iberoamericanos, Presidenta y Directora en el Fondo de Capital Social – FONCAP. \nRespecto a sus publicaciones, es autora de diversos artículos y libros, el más importante de ellos es Economía Feminista (Editorial Penguin Randon House). En 2023 fue reconocida por el diario español El País como una de las 6 mujeres que guían las economías de América Latina. Asimismo, la revista Time la posicionó en 2021 entre los líderes emergentes del futuro para la lista TIME100 NEXT 2021.",
+         "tema":"Políticas económicas para mantener un crecimiento económico sostenido en un escenario adverso",
+         "descripcionTema":"",
+         "exposicion":"Exposicion.plenaria",
+         "presentacionPdf":"",
+         "presentacionDoc":"",
+         "aula":"Virtual",
+         "fechaExposicion":"20231026 11:30"
+      },
+      {
+         "orden":0,
+         "id":"jsarmiento",
+         "nombre":"José Adolfo Sarmiento",
+         "rango":"Gerente de Política Económica y Mercados del Banco Central del Uruguay",
+         "foto":"1",
+         "curriculum":"Es Gerente de Política Económica y Mercados del Banco Central del Uruguay. Es economista titulado  por la Facultad de Ciencias Económicas y Administración de la Universidad de la República. Es PhD en Economía por la Pontificia Universidad Católica de Argentina. Tiene una especialización en Macroeconomía Aplicada de la Pontificia Universidad Católica de Chile, seguida de la obtención del título de Magíster en Economía Aplicada en la misma institución. Obtuvo un Diploma en Finanzas otorgado por la Universidad ORT de Uruguay. En la actualidad desempeña un rol docente en el Seminario de Política Económica en la carrera de Economía de la Universidad Católica del Uruguay y es un destacado referente académico y docente en el posgrado en Finanzas. \nHa contribuido significativamente al campo de la investigación económica con la publicación de importantes artículos académicos relacionados con la emisión de una moneda digital por parte del Banco Central. Algunos de sus trabajos notables incluyen \"Siete lecciones del plan piloto e-Peso: La posibilidad de una Moneda Digital del Banco Central\" y \"Ecosistemas de pago en evolución y CBDC\". Asimismo, se ha desempeñado como Advisor del Fondo Monetario Internacional en consultorías relacionadas con el Dinero Digital de Bancos Centrales (CBDC).",
+         "tema":"Los CBDC y sus implicancias de política monetaria en los bancos centrales",
+         "descripcionTema":"",
+         "exposicion":"Exposicion.plenaria ",
+         "presentacionPdf":"",
+         "presentacionDoc":"",
+         "aula":"Virtual",
+         "fechaExposicion":"20231027 08:45"
+      },
+      {
+         "orden":0,
+         "id":"jcurcio",
+         "nombre":"Javier Adrián Curcio",
+         "rango":"Director del departamento de economía de la Universidad de Buenos Aires",
+         "foto":"1",
+         "curriculum":"Es Director del Departamento de Economía de la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA), docente de grado y posgrado en diferentes universidades de Argentina dictando materias como Finanzas Públicas, Teoría sobre la acción económica del sector público, Economía de la salud, Políticas Sociales Comparadas y Globalización, entre otras. Trabajó como funcionario de UNICEF, especializado en Inversión Social entre 2004 y 2008 y es consultor de organismos internacionales como CEPAL, ONUSIDA, PNUD, UNESCO, Banco Mundial y BID. Fue asesor en la Secretaría de Hacienda, en la Secretaría de Política Económica y en el Ministerio de Educación, Ciencia y Tecnología de la República Argentina.\nSus principales campos de investigación se concentran en la economía del sector público, salud, educación y bienestar, finanzas públicas y protección social.",
+         "tema":"Políticas sociales para el fortalecimiento de la recuperación económica",
+         "descripcionTema":"",
+         "exposicion":"Exposicion.plenaria",
+         "presentacionPdf":"",
+         "presentacionDoc":"",
+         "aula":"Virtual",
+         "fechaExposicion":"20231027 09:30"
+      },
+      {
+         "orden":1,
+         "id":"ccastelo",
+         "nombre":"Claudio Alberto Castelo Branco",
+         "rango":"Profesor de la Universidad Federal de Pará",
+         "foto":"1",
+         "curriculum":"Claudio Alberto Castelo Branco Puty es un economista brasilero que cuenta con un Doctorado en Economía por la New School for Social Research de Estados Unidos. Actualmente es Profesor Asociado de la Universidad Federal de Pará y Profesor Visitante del Centro BRICS de la Universidad de Negocios Internacionales y Economía de Beijing, China. El Dr. Puty fungió como Viceministro en el Ministerio de Trabajo y Seguridad Social de Brasil, Secretario de Asuntos Exteriores en el Ministerio de Planificación, Presupuesto y Gestión, Jefe de Gabinete y Secretario de Gobierno de Pará. Asimismo, fue diputado federal, y tiene vasta experiencia en coordinación financiera con diversas instituciones internacionales como el BID, CAF, el Banco de Desarrollo Africano y FONPLATA, entre otros, y fue profesor en distintas universidades del mundo. \nEl Dr. Puty es autor de diversas publicacione, en revistas académicas internacionales, enfocadas en economía financiera, desarrollo sostenible y crecimiento económico, entre otros. Obtuvo importantes premios entre los que destacan la Ordem do Rio Branco, por su contribución relevante al servicio público; la distinción de los cien congresistas mas influyentes, otorgada por el Departamento Intersindical de Asesoría Parlamentaria de Brasil y; fue seleccionado como uno de los congresistas del futuro por la revista Congreso en Foco.",
+         "tema":"Relevancia de la demanda interna para contener las amenazas de desaceleración global",
+         "descripcionTema":"",
+         "exposicion":"Exposicion.plenaria",
+         "presentacionPdf":"1",
+         "presentacionDoc":"",
+         "aula":"Virtual",
+         "fechaExposicion":"20231027 10:35"
+      }
+   ]
 }
