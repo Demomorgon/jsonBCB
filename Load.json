@@ -1,51 +1,56 @@
 {
-  "modulo": "EEB",
-  "fecha": "20221025",
-  "identificador": 1,
-  "habilitado": true,
-  "habilitado_ingreso": true,
-  "habilitado_programa": true,
-  "habilitado_expositor": true,
-  "habilitado_expositor_plenarias": true,
-  "habilitado_expositor_paralelas": true,
-  "habilitado_noticias": true,
-  "habilitado_sede": false,
-  "habilitado_hospedaje": false,
-  "evento":[{
-   "diaEvento":"20221025",
-   "textoEvento":"25 Oct",
-   "urlYoutube":"1",
-   "urlYHabilitado":false,
-   "urlFacebook":"1",
-   "urlFHabilitado":false,
-   "urlWebex":"https://bcbbolivia.webex.com/wbxmjs/joinservice/sites/bcbbolivia-es/meeting/download/419723931db84130babc85eca99d14dd?siteurl=bcbbolivia-es&MTID=m6bbb4572a061e0c40086f3fead8fa874",
-   "urlWHabilitado":true
-  },{
-   "diaEvento":"20221026",
-   "textoEvento":"26 Oct",
-   "urlYoutube":"1",
-   "urlYHabilitado":false,
-   "urlFacebook":"1",
-   "urlFHabilitado":false,
-   "urlWebex":"https://bcbbolivia.webex.com/wbxmjs/joinservice/sites/bcbbolivia-es/meeting/download/419723931db84130babc85eca99d14dd?siteurl=bcbbolivia-es&MTID=m6bbb4572a061e0c40086f3fead8fa874",
-   "urlWHabilitado":true
-  },{
-   "diaEvento":"20221027",
-   "textoEvento":"27 Oct",
-   "urlYoutube":"1",
-   "urlYHabilitado":false,
-   "urlFacebook":"1",
-   "urlFHabilitado":false,
-   "urlWebex":"1",
-   "urlWHabilitado":false
-  },{
-   "diaEvento":"20221028",
-   "textoEvento":"28 Oct",
-   "urlYoutube":"1",
-   "urlYHabilitado":false,
-   "urlFacebook":"1",
-   "urlFHabilitado":false,
-   "urlWebex":"1",
-   "urlWHabilitado":false
-  }]
+   "modulo":"EEB",
+   "fecha":"20231024",
+   "identificador":1,
+   "habilitado":true,
+   "habilitadoIngreso":true,
+   "habilitadoPrograma":true,
+   "habilitadoExpositor":true,
+   "habilitadoExpositorPlenarias":true,
+   "habilitadoExpositorParalelas":true,
+   "habilitadoNoticias":true,
+   "habilitadoSede":false,
+   "habilitadoHospedaje":false,
+   "evento":[
+      {
+         "diaEvento":"20231024",
+         "textoEvento":"24 Oct",
+         "urlYoutube":"1",
+         "urlYHabilitado":false,
+         "urlFacebook":"1",
+         "urlFHabilitado":false,
+         "urlWebex":"https://bcb-gob-bo.zoom.us/webinar/register/WN_5RIx5oczQqurf0LGM81PBQ",
+         "urlWHabilitado":true
+      },
+      {
+         "diaEvento":"20231025",
+         "textoEvento":"25 Oct",
+         "urlYoutube":"1",
+         "urlYHabilitado":false,
+         "urlFacebook":"1",
+         "urlFHabilitado":false,
+         "urlWebex":"https://bcb-gob-bo.zoom.us/webinar/register/WN_WKsw-uhzSb2Uv4bQH1E89g",
+         "urlWHabilitado":true
+      },
+      {
+         "diaEvento":"20231026",
+         "textoEvento":"26 Oct",
+         "urlYoutube":"1",
+         "urlYHabilitado":false,
+         "urlFacebook":"1",
+         "urlFHabilitado":false,
+         "urlWebex":"1",
+         "urlWHabilitado":false
+      },
+      {
+         "diaEvento":"20231027",
+         "textoEvento":"27 Oct",
+         "urlYoutube":"1",
+         "urlYHabilitado":false,
+         "urlFacebook":"1",
+         "urlFHabilitado":false,
+         "urlWebex":"1",
+         "urlWHabilitado":false
+      }
+   ]
 }
