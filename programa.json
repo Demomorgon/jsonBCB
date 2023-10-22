@@ -1,830 +1,844 @@
 {
-    "listPrograma": [
-        {
-            "orden": 1,
-            "fechaTiempo1": "20221025 08:15",
-            "fechaTiempo2": "20221025 08:45",
-            "titulo": "Registro de participantes Pedro delgado delgado",
-            "lugar": "",
-            "adicional": "",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": true,
-            "codigoPadre": "20221025-1",
-            "codigoHijo": "",
-            "expositor": [],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 2,
-            "fechaTiempo1": "20221025 08:45",
-            "fechaTiempo2": "20221025 08:50",
-            "titulo": "Palabras de bienvenida",
-            "lugar": "",
-            "adicional": "",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": true,
-            "codigoPadre": "20221025-2",
-            "codigoHijo": "",
-            "expositor": [],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 3,
-            "fechaTiempo1": "20221025 08:50",
-            "fechaTiempo2": "20221025 09:00",
-            "titulo": "Inauguración del ciclo de conferencias del Decimoquinto Encuentro de Economistas de Bolivia: Modelos de Equilibrio General Dinámico Estocástico (DSGE)",
-            "lugar": "",
-            "adicional": "",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": true,
-            "codigoPadre": "20221025-3",
-            "codigoHijo": "",
-            "expositor": [],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 4,
-            "fechaTiempo1": "20221025 09:00",
-            "fechaTiempo2": "20221025 16:00",
-            "titulo": "Sesiones Plenarias",
-            "lugar": "Virtual",
-            "adicional": "",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": true,
-            "codigoPadre": "20221025-4",
-            "codigoHijo": "",
-            "expositor": [],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 5,
-            "fechaTiempo1": "20221025 09:00",
-            "fechaTiempo2": "20221025 10:30",
-            "titulo": "Sesión 1: Introducción a los modelos de Equilibrio General Dinámico Estocástico (DSGE) – virtua",
-            "lugar": "Virtual",
-            "adicional": "Profesor de la Universidad de Málaga",
-            "detalleExpositor": true,
-            "codigoExpositor": "jtorres",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
-            "codigoHijo": "20221025-4-1",
-            "expositor": [
-                "José Luis Torres Chacón"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 6,
-            "fechaTiempo1": "20221025 10:45",
-            "fechaTiempo2": "20221025 12:00",
-            "titulo": "Sesión 1: Introducción a los modelos de Equilibrio General Dinámico Estocástico (DSGE) – virtua",
-            "lugar": "Virtual",
-            "adicional": "Profesor de la Universidad de Málaga",
-            "detalleExpositor": true,
-            "codigoExpositor": "jtorres",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
-            "codigoHijo": "20221025-4-2",
-            "expositor": [
-                "José Luis Torres Chacón"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 7,
-            "fechaTiempo1": "20221025 13:00",
-            "fechaTiempo2": "20221025 14:30",
-            "titulo": "Sesión 2: Solución numérica de los modelos DSGE – virtual",
-            "lugar": "Virtual",
-            "adicional": "Profesor de la Universidad de Málaga",
-            "detalleExpositor": true,
-            "codigoExpositor": "jtorres",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
-            "codigoHijo": "20221025-4-3",
-            "expositor": [
-                "José Luis Torres Chacón"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 8,
-            "fechaTiempo1": "20221025 14:45",
-            "fechaTiempo2": "20221025 16:00",
-            "titulo": "Sesión 2: Solución numérica de los modelos DSGE – virtual",
-            "lugar": "Virtual",
-            "adicional": "Profesor de la Universidad de Málaga",
-            "detalleExpositor": true,
-            "codigoExpositor": "jtorres",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
-            "codigoHijo": "20221025-4-4",
-            "expositor": [
-                "José Luis Torres Chacón"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 9,
-            "fechaTiempo1": "20221025 17:00",
-            "fechaTiempo2": "20221025 19:00",
-            "titulo": "Presentación",
-            "lugar": "Tarija",
-            "adicional": "",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": true,
-            "codigoPadre": "20221025-5",
-            "codigoHijo": "",
-            "expositor": [],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 10,
-            "fechaTiempo1": "20221025 17:00",
-            "fechaTiempo2": "20221025 19:00",
-            "titulo": "Presentación del Informe de Política Monetaria (presencial, Tarija)",
-            "lugar": "Tarija",
-            "adicional": "Director del Banco Central de Bolivia",
-            "detalleExpositor": false,
-            "codigoExpositor": "gherbas",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
-            "codigoHijo": "20221025-5-1",
-            "expositor": [
-                "Gabriel Herbas Camacho"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 11,
-            "fechaTiempo1": "20221025 17:00",
-            "fechaTiempo2": "20221025 19:00",
-            "titulo": "Presentación de documento de investigación (presencial, Oruro)",
-            "lugar": "Oruro",
-            "adicional": "Investigadores del BCB",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
-            "codigoHijo": "20221025-5-2",
-            "expositor": [
-                "Investigadores del BCB"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 12,
-            "fechaTiempo1": "20221026 08:30",
-            "fechaTiempo2": "20221026 09:00",
-            "titulo": "Registro de participantes",
-            "lugar": "",
-            "adicional": "",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": true,
-            "codigoPadre": "20221026-1",
-            "codigoHijo": "",
-            "expositor": [],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 13,
-            "fechaTiempo1": "20221026 09:00",
-            "fechaTiempo2": "20221026 16:00",
-            "titulo": "Sesiones Plenarias",
-            "lugar": "",
-            "adicional": "",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": true,
-            "codigoPadre": "20221026-2",
-            "codigoHijo": "",
-            "expositor": [],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 14,
-            "fechaTiempo1": "20221026 09:00",
-            "fechaTiempo2": "20221026 10:30",
-            "titulo": "Sesión 3: Desviaciones de los supuestos básicos – virtual",
-            "lugar": "Virtual",
-            "adicional": "Profesor de la Universidad de Málaga",
-            "detalleExpositor": true,
-            "codigoExpositor": "jtorres",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
-            "codigoHijo": "20221026-2-1",
-            "expositor": [
-                "José Luis Torres Chacón"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 15,
-            "fechaTiempo1": "20221026 10:45",
-            "fechaTiempo2": "20221026 12:00",
-            "titulo": "Sesión 3: Desviaciones de los supuestos básicos – virtual",
-            "lugar": "Virtual",
-            "adicional": "Profesor de la Universidad de Málaga",
-            "detalleExpositor": true,
-            "codigoExpositor": "jtorres",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
-            "codigoHijo": "20221026-2-2",
-            "expositor": [
-                "José Luis Torres Chacón"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 16,
-            "fechaTiempo1": "20221026 13:00",
-            "fechaTiempo2": "20221026 14:30",
-            "titulo": "Sesión 4: Política fiscal, monetaria y el sistema financiero – virtual",
-            "lugar": "Virtual",
-            "adicional": "Profesor de la Universidad de Málaga",
-            "detalleExpositor": true,
-            "codigoExpositor": "jtorres",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
-            "codigoHijo": "20221026-2-3",
-            "expositor": [
-                "José Luis Torres Chacón"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 17,
-            "fechaTiempo1": "20221026 14:45",
-            "fechaTiempo2": "20221026 16:00",
-            "titulo": "Sesión 4: Política fiscal, monetaria y el sistema financiero – virtual",
-            "lugar": "Virtual",
-            "adicional": "Profesor de la Universidad de Málaga",
-            "detalleExpositor": true,
-            "codigoExpositor": "jtorres",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
-            "codigoHijo": "20221026-2-4",
-            "expositor": [
-                "José Luis Torres Chacón"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 19,
-            "fechaTiempo1": "20221026 17:00",
-            "fechaTiempo2": "20221026 19:00",
-            "titulo": "Presentación",
-            "lugar": "Oruro",
-            "adicional": "",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": true,
-            "codigoPadre": "20221026-3",
-            "codigoHijo": "",
-            "expositor": [],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 20,
-            "fechaTiempo1": "20221026 17:00",
-            "fechaTiempo2": "20221026 19:00",
-            "titulo": "Presentación del Informe de Política Monetaria (presencial, Oruro)",
-            "lugar": "Oruro",
-            "adicional": "Director del Banco Central de Bolivia",
-            "detalleExpositor": false,
-            "codigoExpositor": "gpino",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
-            "codigoHijo": "20221026-3-1",
-            "expositor": [
-                "Gumercindo Héctor Pino Guzmán"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 21,
-            "fechaTiempo1": "20221026 17:00",
-            "fechaTiempo2": "20221026 19:00",
-            "titulo": "Presentación de documento de investigación (presencial, Oruro)",
-            "lugar": "Oruro",
-            "adicional": "",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
-            "codigoHijo": "20221026-3-2",
-            "expositor": [
-                "Investigadores del BCB"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 22,
-            "fechaTiempo1": "20221027 07:30",
-            "fechaTiempo2": "20221027 09:00",
-            "titulo": "Registro de participantes y entrega de refrigerio",
-            "lugar": "",
-            "adicional": "",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": true,
-            "codigoPadre": "20221027-1",
-            "codigoHijo": "",
-            "expositor": [],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 23,
-            "fechaTiempo1": "20221027 09:00",
-            "fechaTiempo2": "20221027 09:30",
-            "titulo": "Palabras de bienvenida",
-            "lugar": "",
-            "adicional": "Presidente del Banco Central de Bolivia",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": true,
-            "codigoPadre": "20221027-2",
-            "codigoHijo": "",
-            "expositor": [
-                "Roger Edwin Rojas Ulo"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 24,
-            "fechaTiempo1": "20221027 09:00",
-            "fechaTiempo2": "20221027 09:30",
-            "titulo": "",
-            "lugar": "",
-            "adicional": "Presidente del Banco Central de Bolivia",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
-            "codigoHijo": "20221027-2-1",
-            "expositor": [
-                "Roger Edwin Rojas Ulo"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 24,
-            "fechaTiempo1": "20221027 09:30",
-            "fechaTiempo2": "20221027 10:00",
-            "titulo": "Inauguración",
-            "lugar": "",
-            "adicional": "Presidente Constitucional del Estado Plurinacional de Bolivia",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": true,
-            "codigoPadre": "20221027-3",
-            "codigoHijo": "",
-            "expositor": [
-                "Luis Alberto Arce Catacora"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 25,
-            "fechaTiempo1": "20221027 09:30",
-            "fechaTiempo2": "20221027 10:00",
-            "titulo": "",
-            "lugar": "",
-            "adicional": "Presidente Constitucional del Estado Plurinacional de Bolivia",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
-            "codigoHijo": "20221027-3-1",
-            "expositor": [
-                "Luis Alberto Arce Catacora"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 26,
-            "fechaTiempo1": "20221027 10:00",
-            "fechaTiempo2": "20221027 12:55",
-            "titulo": "Presentación",
-            "lugar": " ",
-            "adicional": "",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": true,
-            "codigoPadre": "20221027-4",
-            "codigoHijo": "",
-            "expositor": [],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 27,
-            "fechaTiempo1": "20221027 10:00",
-            "fechaTiempo2": "20221027 11:00",
-            "titulo": "Evaluación de la dinámica inflacionaria, empleo y ciclos económicos",
-            "lugar": " ",
-            "adicional": "Profesor de la Universidad Federal de Rio de Janeiro",
-            "detalleExpositor": true,
-            "codigoExpositor": "cmonteiro",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
-            "codigoHijo": "20221027-4-1",
-            "expositor": [
-                "Carlos Pinkusfeld Monteiro Bastos"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 28,
-            "fechaTiempo1": "20221027 11:15",
-            "fechaTiempo2": "20221027 12:00",
-            "titulo": "Cambio climático y sus efectos en la recuperación económica",
-            "lugar": " ",
-            "adicional": "Ex Ministro de Economía de la República Oriental del Uruguay",
-            "detalleExpositor": true,
-            "codigoExpositor": "florenzo",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
-            "codigoHijo": "20221027-4-2",
-            "expositor": [
-                "Fernando Lorenzo"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 27,
-            "fechaTiempo1": "20221027 12:10",
-            "fechaTiempo2": "20221027 12:55",
-            "titulo": "Política monetaria convencional y no convencional y su relación con la recuperación económica",
-            "lugar": "",
-            "adicional": "Director General del Centro de Estudios Monetarios Latinoamericanos",
-            "detalleExpositor": true,
-            "codigoExpositor": "mramos",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
-            "codigoHijo": "20221027-4-3",
-            "expositor": [
-                "Manuel Ramos-Francia"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 29,
-            "fechaTiempo1": "20221027 14:30",
-            "fechaTiempo2": "20221027 17:00",
-            "titulo": "Sesiones paralelas (virtual):\n• Documentos de investigación\n• Oportunidades académicas y laborales",
-            "lugar": "",
-            "adicional": "",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": true,
-            "codigoPadre": "20221027-7",
-            "codigoHijo": "",
-            "expositor": [],
-            "enlaceT": ["http://eeb.bcb.gob.bo/content/programa-sesiones-paralelas-27-de-octubre"],
-            "tipoT": ["Sesiones"]
-        },
-        {
-            "orden": 30,
-            "fechaTiempo1": "20221028 09:00",
-            "fechaTiempo2": "20221028 11:30",
-            "titulo": "Sesiones paralelas (virtual):\n• Documentos de investigación\n• Oportunidades académicas y laborales",
-            "lugar": "",
-            "adicional": "",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": true,
-            "codigoPadre": "20221028-1",
-            "codigoHijo": "",
-            "expositor": [],
-            "enlaceT": ["http://eeb.bcb.gob.bo/content/programa-sesiones-paralelas-28-de-octubre"],
-            "tipoT": ["Sesiones"]
-        },
-        {
-            "orden": 31,
-            "fechaTiempo1": "20221028 13:00",
-            "fechaTiempo2": "20221028 14:30",
-            "titulo": "Registro de participantes y entrega de refrigerio",
-            "lugar": "",
-            "adicional": "",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": true,
-            "codigoPadre": "20221028-2",
-            "codigoHijo": "",
-            "expositor": [],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 32,
-            "fechaTiempo1": "20221028 14:30",
-            "fechaTiempo2": "20221028 16:05",
-            "titulo": "Presentación",
-            "lugar": " ",
-            "adicional": "",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": true,
-            "codigoPadre": "20221028-3",
-            "codigoHijo": "",
-            "expositor": [
-                "Esteban Pérez Caldentey"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 33,
-            "fechaTiempo1": "20221028 14:30",
-            "fechaTiempo2": "20221028 15:15",
-            "titulo": "Oportunidades y desafíos de la sustitución de importaciones para el crecimiento, estabilidad y sostenibilidad",
-            "lugar": " ",
-            "adicional": "Oficial Superior de Asuntos Económicos de la CEPAL",
-            "detalleExpositor": true,
-            "codigoExpositor": "eperez",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
-            "codigoHijo": "20221028-3-1",
-            "expositor": [
-                "Esteban Pérez Caldentey"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 34,
-            "fechaTiempo1": "20221028 15:20",
-            "fechaTiempo2": "20221028 16:05",
-            "titulo": "Hechos históricos económicos, lecciones aprendidas y prospectiva para la recuperación económica",
-            "lugar": " ",
-            "adicional": "Profesor de la Universidad de Harvard",
-            "detalleExpositor": true,
-            "codigoExpositor": "krogoff",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
-            "codigoHijo": "20221028-3-2",
-            "expositor": [
-                "Kenneth Rogo"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 35,
-            "fechaTiempo1": "20221028 16:15",
-            "fechaTiempo2": "20221028 16:45",
-            "titulo": "Premiación a los ganadores del concurso de documentos",
-            "lugar": "",
-            "adicional": "",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": true,
-            "codigoPadre": "20221028-5",
-            "codigoHijo": "",
-            "expositor": [],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 36,
-            "fechaTiempo1": "20221028 16:45",
-            "fechaTiempo2": "20221028 16:50",
-            "titulo": "Palabras de circunstancia",
-            "lugar": " ",
-            "adicional": "",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": true,
-            "codigoPadre": "20221028-6",
-            "codigoHijo": "",
-            "expositor": [],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 37,
-            "fechaTiempo1": "20221028 16:45",
-            "fechaTiempo2": "20221028 16:50",
-            "titulo": "",
-            "lugar": " ",
-            "adicional": "Profesor de la Universidad de Málaga",
-            "detalleExpositor": true,
-            "codigoExpositor": "jtorres",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
-            "codigoHijo": "20221028-6-1",
-            "expositor": [
-                "José Luis Torres Chacón"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 38,
-            "fechaTiempo1": "20221028 16:50",
-            "fechaTiempo2": "20221028 17:00",
-            "titulo": "Palabras de cierre",
-            "lugar": "",
-            "adicional": "",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": true,
-            "codigoPadre": "20221028-7",
-            "codigoHijo": "",
-            "expositor": [],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 39,
-            "fechaTiempo1": "20221028 16:50",
-            "fechaTiempo2": "20221028 16:55",
-            "titulo": "",
-            "lugar": "",
-            "adicional": "Rector de la Universidad Autónoma Juan Misael Saracho",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
-            "codigoHijo": "20221028-7-1",
-            "expositor": [
-                "Eduardo Cortez Baldiviezo"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 40,
-            "fechaTiempo1": "20221028 16:55",
-            "fechaTiempo2": "20221028 17:00",
-            "titulo": "",
-            "lugar": "",
-            "adicional": "Rector de la Universidad Técnica de Oruro",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
-            "codigoHijo": "20221028-7-2",
-            "expositor": [
-                "Augusto Medinaceli Ortiz"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 41,
-            "fechaTiempo1": "20221028 17:00",
-            "fechaTiempo2": "20221028 17:30",
-            "titulo": "Clausura del 15EEB",
-            "lugar": "",
-            "adicional": "",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": true,
-            "codigoPadre": "20221028-8",
-            "codigoHijo": "",
-            "expositor": [],
-            "enlaceT": [],
-            "tipoT": []
-        },
-        {
-            "orden": 42,
-            "fechaTiempo1": "20221028 17:00",
-            "fechaTiempo2": "20221028 17:30",
-            "titulo": "",
-            "lugar": "",
-            "adicional": "Ministro de Economía y Finanzas Públicas",
-            "detalleExpositor": false,
-            "codigoExpositor": "",
-            "detallePrograma": false,
-            "codigoDetalle": "",
-            "padre": false,
-            "codigoPadre": "",
-            "codigoHijo": "20221028-8-1",
-            "expositor": [
-                "Marcelo Alejandro Montenegro Goméz García"
-            ],
-            "enlaceT": [],
-            "tipoT": []
-        }
-    ]
+   "listPrograma":[
+      {
+         "orden":1,
+         "fechaTiempo1":"20231024 08:15",
+         "fechaTiempo2":"20231024 08:50",
+         "titulo":"Registro de participantes",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231024-1",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":2,
+         "fechaTiempo1":"20231024 08:50",
+         "fechaTiempo2":"20231024 09:00",
+         "titulo":"Palabras de bienvenida",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231024-2",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":3,
+         "fechaTiempo1":"20231024 09:00",
+         "fechaTiempo2":"20231024 09:10",
+         "titulo":"Palabras de circunstancia",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231024-3",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":4,
+         "fechaTiempo1":"20231024 09:10",
+         "fechaTiempo2":"20231024 09:20",
+         "titulo":"Palabras de inauguración",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231024-4",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":5,
+         "fechaTiempo1":"20231024 09:20",
+         "fechaTiempo2":"20231024 10:50",
+         "titulo":"Sesión 1: Introducción a Machine Learning (virtual)",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231024-5",
+         "codigoHijo":"",
+         "expositor":[
+            "Daniel Parra-Amado"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":6,
+         "fechaTiempo1":"20231024 10:50",
+         "fechaTiempo2":"20231024 11:05",
+         "titulo":"Receso",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231024-5-1",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":7,
+         "fechaTiempo1":"20231024 11:05",
+         "fechaTiempo2":"20231024 12:20",
+         "titulo":"Sesión 1: Introducción a Machine Learning (virtual) - Continuación",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"20231024-5-2",
+         "codigoHijo":"",
+         "expositor":[
+            "Daniel Parra-Amado"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":8,
+         "fechaTiempo1":"20231024 12:20",
+         "fechaTiempo2":"20231024 13:20",
+         "titulo":"Receso",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231024-5-3",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":9,
+         "fechaTiempo1":"20231024 13:20",
+         "fechaTiempo2":"20231024 14:50",
+         "titulo":"Sesión 2: Taller práctico (virtual)",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231024-6",
+         "codigoHijo":"",
+         "expositor":[
+            "Daniel Parra-Amado"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":10,
+         "fechaTiempo1":"20231024 14:50",
+         "fechaTiempo2":"20231024 15:05",
+         "titulo":"Receso",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231024-6-1",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":11,
+         "fechaTiempo1":"20231024 15:05",
+         "fechaTiempo2":"20231024 16:20",
+         "titulo":"Sesión 2: Taller práctico (virtual) - Continuación",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231024-6-2",
+         "expositor":[
+            "Daniel Parra-Amado"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":12,
+         "fechaTiempo1":"20231025 09:00",
+         "fechaTiempo2":"20231025 10:30",
+         "titulo":"Sesión 3: Introducción a Machine Learning (virtual)",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231025-7",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":13,
+         "fechaTiempo1":"20231025 10:30",
+         "fechaTiempo2":"20231025 10:45",
+         "titulo":"Receso",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231025-7-1",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":14,
+         "fechaTiempo1":"20231025 10:45",
+         "fechaTiempo2":"20231025 12:00",
+         "titulo":"Sesión 3: Introducción a Machine Learning (virtual) - Continuación",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231025-7-2",
+         "expositor":[
+            "Daniel Parra-Amado"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":15,
+         "fechaTiempo1":"20231025 12:00",
+         "fechaTiempo2":"20231025 13:00",
+         "titulo":"Receso",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231025-7-2",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":16,
+         "fechaTiempo1":"20231025 13:00",
+         "fechaTiempo2":"20231025 14:30",
+         "titulo":"Sesión 3: Introducción a Machine Learning (virtual) - Continuación",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231025-8",
+         "codigoHijo":"",
+         "expositor":[
+            "Daniel Parra-Amado"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":17,
+         "fechaTiempo1":"20231025 14:30",
+         "fechaTiempo2":"20231025 14:45",
+         "titulo":"Receso",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":true,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231025-7-3",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":18,
+         "fechaTiempo1":"20231025 14:45",
+         "fechaTiempo2":"20231025 16:00",
+         "titulo":"Sesión 4: Taller práctico (virtual) - Continuación",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231025-7-4",
+         "expositor":[
+            "Daniel Parra-Amado"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":19,
+         "fechaTiempo1":"20231026 07:00",
+         "fechaTiempo2":"20231026 08:50",
+         "titulo":"Registro de participantes",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231026-8",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":20,
+         "fechaTiempo1":"20231026 08:50",
+         "fechaTiempo2":"20231026 09:00",
+         "titulo":"Palabras de circunstancia",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231026-9",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":21,
+         "fechaTiempo1":"20231026 09:00",
+         "fechaTiempo2":"20231026 09:10",
+         "titulo":"Palabras de bienvenida",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231026-10",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":22,
+         "fechaTiempo1":"20231026 09:10",
+         "fechaTiempo2":"20231026 09:40",
+         "titulo":"Palabras de inauguración",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231026-11",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":23,
+         "fechaTiempo1":"20231026 09:40",
+         "fechaTiempo2":"20231026 10:25",
+         "titulo":"Políticas económicas para mantener un crecimiento económico sostenido",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231026-12",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":24,
+         "fechaTiempo1":"20231026 10:25",
+         "fechaTiempo2":"20231026 10:45",
+         "titulo":"Refrigerio",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231026-12",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":25,
+         "fechaTiempo1":"20231026 10:45",
+         "fechaTiempo2":"20231026 11:30",
+         "titulo":"Consideraciones sobre la implementación de políticas monetarias enfocadas al control de presiones inflacionarias",
+         "lugar":"",
+         "adicional":"Director de Estudios Económicos del Fondo Latinoamericano de Reservas",
+         "detalleExpositor":true,
+         "codigoExpositor":"cgiraldo",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231026-13",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":26,
+         "fechaTiempo1":"20231026 11:30",
+         "fechaTiempo2":"20231026 12:15",
+         "titulo":"Políticas económicas para mantener un crecimiento económico sostenido en un escenario adverso",
+         "lugar":"",
+         "adicional":"Ex Directora Nacional de Economía, Igualdad y Género de Argentina",
+         "detalleExpositor":true,
+         "codigoExpositor":"malessandro",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231026-13",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":27,
+         "fechaTiempo1":"20231027 07:30",
+         "fechaTiempo2":"20231027 08:45",
+         "titulo":"Registro de participantes",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-13",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":28,
+         "fechaTiempo1":"20231027 08:45",
+         "fechaTiempo2":"20231027 09:30",
+         "titulo":"Los CBDC y sus implicancias de política monetaria en los bancos centrales",
+         "lugar":"",
+         "adicional":"Gerente de Política Económica y Mercados del Banco Central del Uruguay",
+         "detalleExpositor":true,
+         "codigoExpositor":"jsarmiento",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-14",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":29,
+         "fechaTiempo1":"20231027 09:30",
+         "fechaTiempo2":"20231027 10:15",
+         "titulo":"Políticas sociales para el fortalecimiento de la recuperación económica",
+         "lugar":"",
+         "adicional":"Director del departamento de economía de la Universidad de Buenos Aires",
+         "detalleExpositor":true,
+         "codigoExpositor":"jcurcio",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-14",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":30,
+         "fechaTiempo1":"20231027 10:15",
+         "fechaTiempo2":"20231027 10:35",
+         "titulo":"Refrigerio",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-15",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":31,
+         "fechaTiempo1":"20231027 10:35",
+         "fechaTiempo2":"20231027 11:20",
+         "titulo":"Relevancia de la demanda interna para contener las amenazas de desaceleración global",
+         "lugar":"",
+         "adicional":"Profesor de la Universidad Federal de Pará",
+         "detalleExpositor":true,
+         "codigoExpositor":"ccastelo",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-16",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":32,
+         "fechaTiempo1":"20231027 11:20",
+         "fechaTiempo2":"20231027 11:50",
+         "titulo":"Premiación a los ganadores del concurso de documentos",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-17",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":33,
+         "fechaTiempo1":"20231027 11:50",
+         "fechaTiempo2":"20231027 11:55",
+         "titulo":"Palabras de circunstancia Ganador de la categoría Tema Central",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-18",
+         "codigoHijo":"20231027",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":34,
+         "fechaTiempo1":"20231027 11:55",
+         "fechaTiempo2":"20231027 12:05",
+         "titulo":"Palabras de conclusión del evento",
+         "lugar":"",
+         "adicional":"Presidente a.i.",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-19",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":35,
+         "fechaTiempo1":"20231027 12:05",
+         "fechaTiempo2":"20231027 12:35",
+         "titulo":"Palabras de clausura",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-20",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      }
+   ]
 }
