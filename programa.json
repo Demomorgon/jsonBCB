@@ -602,6 +602,30 @@
       },
       {
          "orden":26,
+         "fechaTiempo1":"20231026 10:45",
+         "fechaTiempo2":"20231026 11:30",
+         "titulo":"Consideraciones sobre la implementación de políticas monetarias enfocadas al control de presiones inflacionarias",
+         "lugar":"",
+         "adicional":"Director de Estudios Económicos del Fondo Latinoamericano de Reservas",
+         "detalleExpositor":true,
+         "codigoExpositor":"cgiraldo",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231026-13-1",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":27,
          "fechaTiempo1":"20231026 11:30",
          "fechaTiempo2":"20231026 12:15",
          "titulo":"Políticas económicas para mantener un crecimiento económico sostenido en un escenario adverso",
@@ -625,7 +649,7 @@
          ]
       },
       {
-         "orden":27,
+         "orden":28,
          "fechaTiempo1":"20231027 07:30",
          "fechaTiempo2":"20231027 08:45",
          "titulo":"Registro de participantes",
@@ -649,7 +673,7 @@
          ]
       },
       {
-         "orden":28,
+         "orden":29,
          "fechaTiempo1":"20231027 08:45",
          "fechaTiempo2":"20231027 09:30",
          "titulo":"Los CBDC y sus implicancias de política monetaria en los bancos centrales",
@@ -673,7 +697,7 @@
          ]
       },
       {
-         "orden":29,
+         "orden":30,
          "fechaTiempo1":"20231027 09:30",
          "fechaTiempo2":"20231027 10:15",
          "titulo":"Políticas sociales para el fortalecimiento de la recuperación económica",
@@ -697,7 +721,7 @@
          ]
       },
       {
-         "orden":30,
+         "orden":31,
          "fechaTiempo1":"20231027 10:15",
          "fechaTiempo2":"20231027 10:35",
          "titulo":"Refrigerio",
@@ -721,7 +745,7 @@
          ]
       },
       {
-         "orden":31,
+         "orden":32,
          "fechaTiempo1":"20231027 10:35",
          "fechaTiempo2":"20231027 11:20",
          "titulo":"Relevancia de la demanda interna para contener las amenazas de desaceleración global",
@@ -745,7 +769,7 @@
          ]
       },
       {
-         "orden":32,
+         "orden":33,
          "fechaTiempo1":"20231027 11:20",
          "fechaTiempo2":"20231027 11:50",
          "titulo":"Premiación a los ganadores del concurso de documentos",
@@ -769,7 +793,7 @@
          ]
       },
       {
-         "orden":33,
+         "orden":34,
          "fechaTiempo1":"20231027 11:50",
          "fechaTiempo2":"20231027 11:55",
          "titulo":"Palabras de circunstancia Ganador de la categoría Tema Central",
@@ -793,7 +817,7 @@
          ]
       },
       {
-         "orden":34,
+         "orden":35,
          "fechaTiempo1":"20231027 11:55",
          "fechaTiempo2":"20231027 12:05",
          "titulo":"Palabras de conclusión del evento",
@@ -817,7 +841,7 @@
          ]
       },
       {
-         "orden":35,
+         "orden":36,
          "fechaTiempo1":"20231027 12:05",
          "fechaTiempo2":"20231027 12:35",
          "titulo":"Palabras de clausura",
