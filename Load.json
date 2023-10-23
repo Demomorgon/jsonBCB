@@ -7,7 +7,7 @@
    "habilitado_programa":true,
    "habilitado_expositor":true,
    "habilitado_expositor_plenarias":true,
-   "habilitado_expositor_paralelas":true,
+   "habilitado_expositor_paralelas":false,
    "habilitado_noticias":true,
    "habilitado_sede":false,
    "habilitado_hospedaje":false,
