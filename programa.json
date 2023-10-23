@@ -393,7 +393,7 @@
          "adicional":"",
          "detalleExpositor":false,
          "codigoExpositor":"",
-         "detallePrograma":true,
+         "detallePrograma":false,
          "codigoDetalle":"",
          "padre":false,
          "codigoPadre":"",
