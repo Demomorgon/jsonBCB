@@ -1,1 +1,988 @@
-{"listPrograma":[{"orden":1,"fechaTiempo1":"20231024 08:15","fechaTiempo2":"20231024 08:50","titulo":"Registro de participantes","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231024-1","codigoHijo":"","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":2,"fechaTiempo1":"20231024 08:50","fechaTiempo2":"20231024 09:00","titulo":"Palabras de bienvenida","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231024-2","codigoHijo":"","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":3,"fechaTiempo1":"20231024 09:00","fechaTiempo2":"20231024 09:10","titulo":"Palabras de circunstancia","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231024-3","codigoHijo":"","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":4,"fechaTiempo1":"20231024 09:10","fechaTiempo2":"20231024 09:20","titulo":"Palabras de inauguración","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231024-4","codigoHijo":"","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":5,"fechaTiempo1":"20231024 09:20","fechaTiempo2":"20231024 10:50","titulo":"Sesión 1: Introducción a Machine Learning (virtual)","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231024-5","codigoHijo":"","expositor":["Daniel Parra-Amado"],"enlaceT":[],"tipoT":[]},{"orden":6,"fechaTiempo1":"20231024 10:50","fechaTiempo2":"20231024 11:05","titulo":"Receso","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":false,"codigoPadre":"","codigoHijo":"20231024-5-1","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":7,"fechaTiempo1":"20231024 11:05","fechaTiempo2":"20231024 12:20","titulo":"Sesión 1: Introducción a Machine Learning (virtual) - Continuación","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":false,"codigoPadre":"20231024-5-2","codigoHijo":"","expositor":["Daniel Parra-Amado"],"enlaceT":[],"tipoT":[]},{"orden":8,"fechaTiempo1":"20231024 12:20","fechaTiempo2":"20231024 13:20","titulo":"Receso","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":false,"codigoPadre":"","codigoHijo":"20231024-5-3","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":9,"fechaTiempo1":"20231024 13:20","fechaTiempo2":"20231024 14:50","titulo":"Sesión 2: Taller práctico (virtual)","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231024-6","codigoHijo":"","expositor":["Daniel Parra-Amado"],"enlaceT":[],"tipoT":[]},{"orden":10,"fechaTiempo1":"20231024 14:50","fechaTiempo2":"20231024 15:05","titulo":"Receso","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":false,"codigoPadre":"","codigoHijo":"20231024-6-1","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":11,"fechaTiempo1":"20231024 15:05","fechaTiempo2":"20231024 16:20","titulo":"Sesión 2: Taller práctico (virtual) - Continuación","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":false,"codigoPadre":"","codigoHijo":"20231024-6-2","expositor":["Daniel Parra-Amado"],"enlaceT":[],"tipoT":[]},{"orden":12,"fechaTiempo1":"20231025 09:00","fechaTiempo2":"20231025 10:30","titulo":"Sesión 3: Introducción a Machine Learning (virtual)","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231025-7","codigoHijo":"","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":13,"fechaTiempo1":"20231025 10:30","fechaTiempo2":"20231025 10:45","titulo":"Receso","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":false,"codigoPadre":"","codigoHijo":"20231025-7-1","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":14,"fechaTiempo1":"20231025 10:45","fechaTiempo2":"20231025 12:00","titulo":"Sesión 3: Introducción a Machine Learning (virtual) - Continuación","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":false,"codigoPadre":"","codigoHijo":"20231025-7-2","expositor":["Daniel Parra-Amado"],"enlaceT":[],"tipoT":[]},{"orden":15,"fechaTiempo1":"20231025 12:00","fechaTiempo2":"20231025 13:00","titulo":"Receso","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":false,"codigoPadre":"","codigoHijo":"20231025-7-2","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":16,"fechaTiempo1":"20231025 13:00","fechaTiempo2":"20231025 14:30","titulo":"Sesión 3: Introducción a Machine Learning (virtual) - Continuación","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231025-8","codigoHijo":"","expositor":["Daniel Parra-Amado"],"enlaceT":[],"tipoT":[]},{"orden":17,"fechaTiempo1":"20231025 14:30","fechaTiempo2":"20231025 14:45","titulo":"Receso","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":true,"codigoDetalle":"","padre":false,"codigoPadre":"","codigoHijo":"20231025-7-3","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":18,"fechaTiempo1":"20231025 14:45","fechaTiempo2":"20231025 16:00","titulo":"Sesión 4: Taller práctico (virtual) - Continuación","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":false,"codigoPadre":"","codigoHijo":"20231025-7-4","expositor":["Daniel Parra-Amado"],"enlaceT":[],"tipoT":[]},{"orden":19,"fechaTiempo1":"20231026 07:00","fechaTiempo2":"20231026 08:50","titulo":"Registro de participantes","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231026-8","codigoHijo":"","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":20,"fechaTiempo1":"20231026 08:50","fechaTiempo2":"20231026 09:00","titulo":"Palabras de circunstancia","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231026-9","codigoHijo":"","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":21,"fechaTiempo1":"20231026 09:00","fechaTiempo2":"20231026 09:10","titulo":"Palabras de bienvenida","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231026-10","codigoHijo":"","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":22,"fechaTiempo1":"20231026 09:10","fechaTiempo2":"20231026 09:40","titulo":"Palabras de inauguración","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231026-11","codigoHijo":"","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":23,"fechaTiempo1":"20231026 09:40","fechaTiempo2":"20231026 10:25","titulo":"Políticas económicas para mantener un crecimiento económico sostenido","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231026-12","codigoHijo":"","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":24,"fechaTiempo1":"20231026 10:25","fechaTiempo2":"20231026 10:45","titulo":"Refrigerio","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231026-12","codigoHijo":"","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":25,"fechaTiempo1":"20231026 10:45","fechaTiempo2":"20231026 11:30","titulo":"Consideraciones sobre la implementación de políticas monetarias enfocadas al control de presiones inflacionarias","lugar":"","adicional":"Director de Estudios Económicos del Fondo Latinoamericano de Reservas","detalleExpositor":true,"codigoExpositor":"cgiraldo","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231026-13","codigoHijo":"","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":26,"fechaTiempo1":"20231026 10:45","fechaTiempo2":"20231026 11:30","titulo":"Consideraciones sobre la implementación de políticas monetarias enfocadas al control de presiones inflacionarias","lugar":"","adicional":"Director de Estudios Económicos del Fondo Latinoamericano de Reservas","detalleExpositor":true,"codigoExpositor":"cgiraldo","detallePrograma":false,"codigoDetalle":"","padre":false,"codigoPadre":"","codigoHijo":"20231026-13-1","expositor":["Carlos Giraldo"],"enlaceT":[],"tipoT":[]},{"orden":27,"fechaTiempo1":"20231026 11:30","fechaTiempo2":"20231026 12:15","titulo":"Políticas económicas para mantener un crecimiento económico sostenido en un escenario adverso","lugar":"","adicional":"Ex Directora Nacional de Economía, Igualdad y Género de Argentina","detalleExpositor":true,"codigoExpositor":"malessandro","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231026-13","codigoHijo":"","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":28,"fechaTiempo1":"20231027 07:30","fechaTiempo2":"20231027 08:45","titulo":"Registro de participantes","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231027-13","codigoHijo":"","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":29,"fechaTiempo1":"20231027 08:45","fechaTiempo2":"20231027 09:30","titulo":"Los CBDC y sus implicancias de política monetaria en los bancos centrales","lugar":"","adicional":"Gerente de Política Económica y Mercados del Banco Central del Uruguay","detalleExpositor":true,"codigoExpositor":"jsarmiento","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231027-14","codigoHijo":"","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":30,"fechaTiempo1":"20231027 09:30","fechaTiempo2":"20231027 10:15","titulo":"Políticas sociales para el fortalecimiento de la recuperación económica","lugar":"","adicional":"Director del departamento de economía de la Universidad de Buenos Aires","detalleExpositor":true,"codigoExpositor":"jcurcio","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231027-14","codigoHijo":"","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":31,"fechaTiempo1":"20231027 10:15","fechaTiempo2":"20231027 10:35","titulo":"Refrigerio","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231027-15","codigoHijo":"","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":32,"fechaTiempo1":"20231027 10:35","fechaTiempo2":"20231027 11:20","titulo":"Relevancia de la demanda interna para contener las amenazas de desaceleración global","lugar":"","adicional":"Profesor de la Universidad Federal de Pará","detalleExpositor":true,"codigoExpositor":"ccastelo","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231027-16","codigoHijo":"","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":33,"fechaTiempo1":"20231027 11:20","fechaTiempo2":"20231027 11:50","titulo":"Premiación a los ganadores del concurso de documentos","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231027-17","codigoHijo":"","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":34,"fechaTiempo1":"20231027 11:50","fechaTiempo2":"20231027 11:55","titulo":"Palabras de circunstancia Ganador de la categoría Tema Central","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231027-18","codigoHijo":"20231027","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":35,"fechaTiempo1":"20231027 11:55","fechaTiempo2":"20231027 12:05","titulo":"Palabras de conclusión del evento","lugar":"","adicional":"Presidente a.i.","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231027-19","codigoHijo":"","expositor":[],"enlaceT":[],"tipoT":[]},{"orden":36,"fechaTiempo1":"20231027 12:05","fechaTiempo2":"20231027 12:35","titulo":"Palabras de clausura","lugar":"","adicional":"","detalleExpositor":false,"codigoExpositor":"","detallePrograma":false,"codigoDetalle":"","padre":true,"codigoPadre":"20231027-20","codigoHijo":"","expositor":[],"enlaceT":[],"tipoT":[]}]}
+{
+   "listPrograma":[
+      {
+         "orden":1,
+         "fechaTiempo1":"20231024 08:15",
+         "fechaTiempo2":"20231024 08:50",
+         "titulo":"Registro de participantes",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231024-1",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":2,
+         "fechaTiempo1":"20231024 08:50",
+         "fechaTiempo2":"20231024 09:00",
+         "titulo":"Palabras de bienvenida",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231024-2",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":3,
+         "fechaTiempo1":"20231024 09:00",
+         "fechaTiempo2":"20231024 09:10",
+         "titulo":"Palabras de circunstancia",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231024-3",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":4,
+         "fechaTiempo1":"20231024 09:10",
+         "fechaTiempo2":"20231024 09:20",
+         "titulo":"Palabras de inauguración",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231024-4",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":5,
+         "fechaTiempo1":"20231024 09:20",
+         "fechaTiempo2":"20231024 10:50",
+         "titulo":"Sesión 1: Introducción a Machine Learning (virtual)",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231024-5",
+         "codigoHijo":"",
+         "expositor":[
+            "Daniel Parra-Amado"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":6,
+         "fechaTiempo1":"20231024 10:50",
+         "fechaTiempo2":"20231024 11:05",
+         "titulo":"Receso",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231024-5-1",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":7,
+         "fechaTiempo1":"20231024 11:05",
+         "fechaTiempo2":"20231024 12:20",
+         "titulo":"Sesión 1: Introducción a Machine Learning (virtual) - Continuación",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"20231024-5-2",
+         "codigoHijo":"",
+         "expositor":[
+            "Daniel Parra-Amado"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":8,
+         "fechaTiempo1":"20231024 12:20",
+         "fechaTiempo2":"20231024 13:20",
+         "titulo":"Receso",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231024-5-3",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":9,
+         "fechaTiempo1":"20231024 13:20",
+         "fechaTiempo2":"20231024 14:50",
+         "titulo":"Sesión 2: Taller práctico (virtual)",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231024-6",
+         "codigoHijo":"",
+         "expositor":[
+            "Daniel Parra-Amado"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":10,
+         "fechaTiempo1":"20231024 14:50",
+         "fechaTiempo2":"20231024 15:05",
+         "titulo":"Receso",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231024-6-1",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":11,
+         "fechaTiempo1":"20231024 15:05",
+         "fechaTiempo2":"20231024 16:20",
+         "titulo":"Sesión 2: Taller práctico (virtual) - Continuación",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231024-6-2",
+         "expositor":[
+            "Daniel Parra-Amado"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":12,
+         "fechaTiempo1":"20231025 09:00",
+         "fechaTiempo2":"20231025 10:30",
+         "titulo":"Sesión 3: Introducción a Machine Learning (virtual)",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231025-7",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":13,
+         "fechaTiempo1":"20231025 10:30",
+         "fechaTiempo2":"20231025 10:45",
+         "titulo":"Receso",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231025-7-1",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":14,
+         "fechaTiempo1":"20231025 10:45",
+         "fechaTiempo2":"20231025 12:00",
+         "titulo":"Sesión 3: Introducción a Machine Learning (virtual) - Continuación",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231025-7-2",
+         "expositor":[
+            "Daniel Parra-Amado"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":15,
+         "fechaTiempo1":"20231025 12:00",
+         "fechaTiempo2":"20231025 13:00",
+         "titulo":"Receso",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231025-7-3",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":16,
+         "fechaTiempo1":"20231025 13:00",
+         "fechaTiempo2":"20231025 14:30",
+         "titulo":"Sesión 3: Introducción a Machine Learning (virtual) - Continuación",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231025-7-4",
+         "expositor":[
+            "Daniel Parra-Amado"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":17,
+         "fechaTiempo1":"20231025 14:30",
+         "fechaTiempo2":"20231025 14:45",
+         "titulo":"Receso",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":true,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231025-7-5",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":18,
+         "fechaTiempo1":"20231025 14:45",
+         "fechaTiempo2":"20231025 16:00",
+         "titulo":"Sesión 4: Taller práctico (virtual) - Continuación",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231025-7-6",
+         "expositor":[
+            "Daniel Parra-Amado"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":19,
+         "fechaTiempo1":"20231026 07:00",
+         "fechaTiempo2":"20231026 08:50",
+         "titulo":"Registro de participantes",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231026-8",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":20,
+         "fechaTiempo1":"20231026 08:50",
+         "fechaTiempo2":"20231026 09:00",
+         "titulo":"Palabras de circunstancia",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231026-8-1",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":21,
+         "fechaTiempo1":"20231026 09:00",
+         "fechaTiempo2":"20231026 09:10",
+         "titulo":"Palabras de bienvenida",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231026-8-2",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":22,
+         "fechaTiempo1":"20231026 09:10",
+         "fechaTiempo2":"20231026 09:40",
+         "titulo":"Palabras de inauguración",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231026-8-3",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":23,
+         "fechaTiempo1":"20231026 09:40",
+         "fechaTiempo2":"20231026 10:25",
+         "titulo":"Políticas económicas para mantener un crecimiento económico sostenido",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231026-9",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":24,
+         "fechaTiempo1":"20231026 09:40",
+         "fechaTiempo2":"20231026 10:25",
+         "titulo":"Políticas económicas para mantener un crecimiento económico sostenido",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231026-9-1",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":25,
+         "fechaTiempo1":"20231026 10:25",
+         "fechaTiempo2":"20231026 10:45",
+         "titulo":"Refrigerio",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231026-10",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":26,
+         "fechaTiempo1":"20231026 10:45",
+         "fechaTiempo2":"20231026 11:30",
+         "titulo":"Consideraciones sobre la implementación de políticas monetarias enfocadas al control de presiones inflacionarias",
+         "lugar":"",
+         "adicional":"Director de Estudios Económicos del Fondo Latinoamericano de Reservas",
+         "detalleExpositor":true,
+         "codigoExpositor":"cgiraldo",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231026-11",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":27,
+         "fechaTiempo1":"20231026 10:45",
+         "fechaTiempo2":"20231026 11:30",
+         "titulo":"Consideraciones sobre la implementación de políticas monetarias enfocadas al control de presiones inflacionarias",
+         "lugar":"",
+         "adicional":"Director de Estudios Económicos del Fondo Latinoamericano de Reservas",
+         "detalleExpositor":true,
+         "codigoExpositor":"cgiraldo",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231026-11-1",
+         "expositor":[
+            "Carlos Giraldo"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":28,
+         "fechaTiempo1":"20231026 11:30",
+         "fechaTiempo2":"20231026 12:15",
+         "titulo":"Políticas económicas para mantener un crecimiento económico sostenido en un escenario adverso",
+         "lugar":"",
+         "adicional":"Ex Directora Nacional de Economía, Igualdad y Género de Argentina",
+         "detalleExpositor":true,
+         "codigoExpositor":"malessandro",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231026-12",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":29,
+         "fechaTiempo1":"20231026 11:30",
+         "fechaTiempo2":"20231026 12:15",
+         "titulo":"Políticas económicas para mantener un crecimiento económico sostenido en un escenario adverso",
+         "lugar":"",
+         "adicional":"Ex Directora Nacional de Economía, Igualdad y Género de Argentina",
+         "detalleExpositor":true,
+         "codigoExpositor":"malessandro",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231026-12-1",
+         "expositor":[
+            "Mercedes D’Alessandro"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":30,
+         "fechaTiempo1":"20231027 07:30",
+         "fechaTiempo2":"20231027 08:45",
+         "titulo":"Registro de participantes",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-13",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":31,
+         "fechaTiempo1":"20231027 08:45",
+         "fechaTiempo2":"20231027 09:30",
+         "titulo":"Los CBDC y sus implicancias de política monetaria en los bancos centrales",
+         "lugar":"",
+         "adicional":"Gerente de Política Económica y Mercados del Banco Central del Uruguay",
+         "detalleExpositor":true,
+         "codigoExpositor":"jsarmiento",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-14",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":32,
+         "fechaTiempo1":"20231027 08:45",
+         "fechaTiempo2":"20231027 09:30",
+         "titulo":"Los CBDC y sus implicancias de política monetaria en los bancos centrales",
+         "lugar":"",
+         "adicional":"Gerente de Política Económica y Mercados del Banco Central del Uruguay",
+         "detalleExpositor":true,
+         "codigoExpositor":"jsarmiento",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231027-14-1",
+         "expositor":[
+            "Adolfo Sarmiento"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":33,
+         "fechaTiempo1":"20231027 09:30",
+         "fechaTiempo2":"20231027 10:15",
+         "titulo":"Políticas sociales para el fortalecimiento de la recuperación económica",
+         "lugar":"",
+         "adicional":"Director del departamento de economía de la Universidad de Buenos Aires",
+         "detalleExpositor":true,
+         "codigoExpositor":"jcurcio",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-15",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":34,
+         "fechaTiempo1":"20231027 09:30",
+         "fechaTiempo2":"20231027 10:15",
+         "titulo":"Políticas sociales para el fortalecimiento de la recuperación económica",
+         "lugar":"",
+         "adicional":"Director del departamento de economía de la Universidad de Buenos Aires",
+         "detalleExpositor":true,
+         "codigoExpositor":"jcurcio",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231027-15-1",
+         "expositor":[
+            "Javier Curcio"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":35,
+         "fechaTiempo1":"20231027 10:15",
+         "fechaTiempo2":"20231027 10:35",
+         "titulo":"Refrigerio",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-16",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":36,
+         "fechaTiempo1":"20231027 10:35",
+         "fechaTiempo2":"20231027 11:20",
+         "titulo":"Relevancia de la demanda interna para contener las amenazas de desaceleración global",
+         "lugar":"",
+         "adicional":"Profesor de la Universidad Federal de Pará",
+         "detalleExpositor":true,
+         "codigoExpositor":"ccastelo",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-17",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":37,
+         "fechaTiempo1":"20231027 10:35",
+         "fechaTiempo2":"20231027 11:20",
+         "titulo":"Relevancia de la demanda interna para contener las amenazas de desaceleración global",
+         "lugar":"",
+         "adicional":"Profesor de la Universidad Federal de Pará",
+         "detalleExpositor":true,
+         "codigoExpositor":"ccastelo",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231027-17-1",
+         "expositor":[
+            "Claudio Alberto Castelo Branco Puty"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":38,
+         "fechaTiempo1":"20231027 11:20",
+         "fechaTiempo2":"20231027 11:50",
+         "titulo":"Premiación a los ganadores del concurso de documentos",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-18",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":39,
+         "fechaTiempo1":"20231027 11:50",
+         "fechaTiempo2":"20231027 11:55",
+         "titulo":"Palabras de circunstancia Ganador de la categoría Tema Central",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-19",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":40,
+         "fechaTiempo1":"20231027 11:55",
+         "fechaTiempo2":"20231027 12:05",
+         "titulo":"Palabras de conclusión del evento",
+         "lugar":"",
+         "adicional":"Presidente a.i.",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-20",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":41,
+         "fechaTiempo1":"20231027 12:05",
+         "fechaTiempo2":"20231027 12:35",
+         "titulo":"Palabras de clausura",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-21",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      }
+   ]
+}
