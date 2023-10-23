@@ -1,94 +1,1084 @@
 {
-   "listExpositor":[
+   "listPrograma":[
       {
          "orden":1,
-         "id":"agalindo",
-         "nombre":"Arturo José Galindo Andrade",
-         "rango":"Economista principal del Departamento de Investigación del BID",
-         "foto":"https://eeb.bcb.gob.bo/sites/default/files/programa/16EEB/agalindo.jpg",
-         "curriculum":"Es Economista Principal del Departamento de Investigación del Banco Interamericano de Desarrollo (BID) en Washington, DC. Doctor en Economía por la Universidad de Illinois en Urbana-Champaign. Fue miembro de la Junta Directiva del Banco Central de Colombia, investigador en Fedesarrollo, un centro de investigación colombiano, jefe de la División de Planificación Estratégica y Monitoreo en el BID, jefe de la División de Desarrollo Estratégico y asesor económico regional para la Región Andina en la misma institución. \nAnteriormente se desempeñó como asesor económico principal de la Asociación Bancaria de Colombia, asesor del Ministerio de Hacienda, asesor del gobierno de Colombia en asuntos cafeteros, profesor de economía en la Universidad de los Andes en Bogotá, economista de investigación en el BID y economista en el Banco Central de Colombia.\nus investigaciones académicas abarcan macroeconomía, política monetaria, economía financiera, banca de desarrollo, finanzas públicas, economía internacional y economía del desarrollo, áreas en las que ha publicado extensamente.",
-         "tema":"Políticas económicas para mantener un crecimiento económico sostenido",
-         "descripcionTema":"",
-         "exposicion":"Exposicion.plenaria",
-         "presentacionPdf":"",
-         "presentacionDoc":"",
-         "aula":"Virtual",
-         "fechaExposicion":"20231026 09:40"
+         "fechaTiempo1":"20231024 08:15",
+         "fechaTiempo2":"20231024 08:50",
+         "titulo":"Registro de participantes",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231024-1",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
       },
       {
          "orden":2,
-         "id":"cgiraldo",
-         "nombre":"Carlos Giraldo",
-         "rango":"Director de Estudios Económicos del Fondo Latinoamericano de Reservas",
-         "foto":"https://eeb.bcb.gob.bo/sites/default/files/programa/16EEB/cgiraldo.png",
-         "curriculum":"Es Director de estudios económicos en el Fondo Latinoamericano de Reservas (FLAR), donde ha trabajado desde 2004, mismo en el que ha sido director de investigación y desarrollo, director adjunto de estudios económicos, economista internacional y economista junior. Es Doctor en economía por la Universidad del Rosario, Colombia; maestro en economía ambiental y recursos naturales de las universidades de los Andes y de Maryland, maestro en economía de la Universidad de los Andes y economista de la Universidad de Antioquia. Ha sido profesor en estas últimas dos universidades.\nSus áreas de interés académico son macroeconomía, política monetaria, macroeconomía internacional y red de seguridad financiera global.",
-         "tema":"Consideraciones sobre la implementación de políticas monetarias enfocadas al control de presiones inflacionarias",
-         "descripcionTema":"",
-         "exposicion":"Exposicion.plenaria",
-         "presentacionPdf":"",
-         "presentacionDoc":"",
-         "aula":"Virtual",
-         "fechaExposicion":"20231026 10:45"
+         "fechaTiempo1":"20231024 08:50",
+         "fechaTiempo2":"20231024 09:00",
+         "titulo":"Palabras de bienvenida",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231024-2",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
       },
       {
          "orden":3,
-         "id":"malessandro",
-         "nombre":"Mercedes D'Alessandro",
-         "rango":"Ex Directora Nacional de Economía, Igualdad y Género de Argentina",
-         "foto":"https://eeb.bcb.gob.bo/sites/default/files/programa/16EEB/malessandro.jpg",
-         "curriculum":"Mercedes D'Alessandro es una economista y escritora argentina que tiene un Doctorado en Economía por la Universidad de Buenos Aires y que en la actualidad es Directora de la Licenciatura en Economía en la Universidad Metropolitana para la Educación y el Trabajo y Profesora de la materia de Economía Feminista de la Facultad de Ciencias Económicas en la Universidad de Avellaneda. \nLa Dra. D’Alessandro fue Directora Nacional de Economía, Igualdad y Género en el Ministerio de Economía de la Argentina, profesora en diversas universidades y posgrados, así como directora de la carrera de Economía Política de la Universidad Nacional de General Sarmiento. Del mismo modo, fue consultora del Banco Interamericano de Desarrollo y de la Organización de Estados Iberoamericanos, Presidenta y Directora en el Fondo de Capital Social – FONCAP. \nRespecto a sus publicaciones, es autora de diversos artículos y libros, el más importante de ellos es Economía Feminista (Editorial Penguin Randon House). En 2023 fue reconocida por el diario español El País como una de las 6 mujeres que guían las economías de América Latina. Asimismo, la revista Time la posicionó en 2021 entre los líderes emergentes del futuro para la lista TIME100 NEXT 2021.",
-         "tema":"Políticas económicas para mantener un crecimiento económico sostenido en un escenario adverso",
-         "descripcionTema":"",
-         "exposicion":"Exposicion.plenaria",
-         "presentacionPdf":"",
-         "presentacionDoc":"",
-         "aula":"Virtual",
-         "fechaExposicion":"20231026 11:30"
+         "fechaTiempo1":"20231024 09:00",
+         "fechaTiempo2":"20231024 09:10",
+         "titulo":"Palabras de circunstancia",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231024-3",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
       },
       {
          "orden":4,
-         "id":"jsarmiento",
-         "nombre":"José Adolfo Sarmiento",
-         "rango":"Gerente de Política Económica y Mercados del Banco Central del Uruguay",
-         "foto":"https://eeb.bcb.gob.bo/sites/default/files/programa/16EEB/jsarmiento.jpg",
-         "curriculum":"Es Gerente de Política Económica y Mercados del Banco Central del Uruguay. Es economista titulado  por la Facultad de Ciencias Económicas y Administración de la Universidad de la República. Es PhD en Economía por la Pontificia Universidad Católica de Argentina. Tiene una especialización en Macroeconomía Aplicada de la Pontificia Universidad Católica de Chile, seguida de la obtención del título de Magíster en Economía Aplicada en la misma institución. Obtuvo un Diploma en Finanzas otorgado por la Universidad ORT de Uruguay. En la actualidad desempeña un rol docente en el Seminario de Política Económica en la carrera de Economía de la Universidad Católica del Uruguay y es un destacado referente académico y docente en el posgrado en Finanzas. \nHa contribuido significativamente al campo de la investigación económica con la publicación de importantes artículos académicos relacionados con la emisión de una moneda digital por parte del Banco Central. Algunos de sus trabajos notables incluyen \"Siete lecciones del plan piloto e-Peso: La posibilidad de una Moneda Digital del Banco Central\" y \"Ecosistemas de pago en evolución y CBDC\". Asimismo, se ha desempeñado como Advisor del Fondo Monetario Internacional en consultorías relacionadas con el Dinero Digital de Bancos Centrales (CBDC).",
-         "tema":"Los CBDC y sus implicancias de política monetaria en los bancos centrales",
-         "descripcionTema":"",
-         "exposicion":"Exposicion.plenaria ",
-         "presentacionPdf":"",
-         "presentacionDoc":"",
-         "aula":"Virtual",
-         "fechaExposicion":"20231027 08:45"
+         "fechaTiempo1":"20231024 09:10",
+         "fechaTiempo2":"20231024 09:20",
+         "titulo":"Palabras de inauguración",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231024-4",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
       },
       {
          "orden":5,
-         "id":"jcurcio",
-         "nombre":"Javier Adrián Curcio",
-         "rango":"Director del departamento de economía de la Universidad de Buenos Aires",
-         "foto":"https://eeb.bcb.gob.bo/sites/default/files/programa/16EEB/jcurcio.png",
-         "curriculum":"Es Director del Departamento de Economía de la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA), docente de grado y posgrado en diferentes universidades de Argentina dictando materias como Finanzas Públicas, Teoría sobre la acción económica del sector público, Economía de la salud, Políticas Sociales Comparadas y Globalización, entre otras. Trabajó como funcionario de UNICEF, especializado en Inversión Social entre 2004 y 2008 y es consultor de organismos internacionales como CEPAL, ONUSIDA, PNUD, UNESCO, Banco Mundial y BID. Fue asesor en la Secretaría de Hacienda, en la Secretaría de Política Económica y en el Ministerio de Educación, Ciencia y Tecnología de la República Argentina.\nSus principales campos de investigación se concentran en la economía del sector público, salud, educación y bienestar, finanzas públicas y protección social.",
-         "tema":"Políticas sociales para el fortalecimiento de la recuperación económica",
-         "descripcionTema":"",
-         "exposicion":"Exposicion.plenaria",
-         "presentacionPdf":"",
-         "presentacionDoc":"",
-         "aula":"Virtual",
-         "fechaExposicion":"20231027 09:30"
+         "fechaTiempo1":"20231024 09:20",
+         "fechaTiempo2":"20231024 10:50",
+         "titulo":"Sesión 1: Introducción a Machine Learning (virtual)",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231024-5",
+         "codigoHijo":"",
+         "expositor":[
+            "Daniel Parra-Amado"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
       },
       {
          "orden":6,
-         "id":"ccastelo",
-         "nombre":"Claudio Alberto Castelo Branco",
-         "rango":"Profesor de la Universidad Federal de Pará",
-         "foto":"https://eeb.bcb.gob.bo/sites/default/files/programa/16EEB/ccastelo.jpg",
-         "curriculum":"Claudio Alberto Castelo Branco Puty es un economista brasilero que cuenta con un Doctorado en Economía por la New School for Social Research de Estados Unidos. Actualmente es Profesor Asociado de la Universidad Federal de Pará y Profesor Visitante del Centro BRICS de la Universidad de Negocios Internacionales y Economía de Beijing, China. El Dr. Puty fungió como Viceministro en el Ministerio de Trabajo y Seguridad Social de Brasil, Secretario de Asuntos Exteriores en el Ministerio de Planificación, Presupuesto y Gestión, Jefe de Gabinete y Secretario de Gobierno de Pará. Asimismo, fue diputado federal, y tiene vasta experiencia en coordinación financiera con diversas instituciones internacionales como el BID, CAF, el Banco de Desarrollo Africano y FONPLATA, entre otros, y fue profesor en distintas universidades del mundo. \nEl Dr. Puty es autor de diversas publicacione, en revistas académicas internacionales, enfocadas en economía financiera, desarrollo sostenible y crecimiento económico, entre otros. Obtuvo importantes premios entre los que destacan la Ordem do Rio Branco, por su contribución relevante al servicio público; la distinción de los cien congresistas mas influyentes, otorgada por el Departamento Intersindical de Asesoría Parlamentaria de Brasil y; fue seleccionado como uno de los congresistas del futuro por la revista Congreso en Foco.",
-         "tema":"Relevancia de la demanda interna para contener las amenazas de desaceleración global",
-         "descripcionTema":"",
-         "exposicion":"Exposicion.plenaria",
-         "presentacionPdf":"1",
-         "presentacionDoc":"",
-         "aula":"Virtual",
-         "fechaExposicion":"20231027 10:35"
+         "fechaTiempo1":"20231024 10:50",
+         "fechaTiempo2":"20231024 11:05",
+         "titulo":"Receso",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231024-5-1",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":7,
+         "fechaTiempo1":"20231024 11:05",
+         "fechaTiempo2":"20231024 12:20",
+         "titulo":"Sesión 1: Introducción a Machine Learning (virtual) - Continuación",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231024-5-2",
+         "expositor":[
+            "Daniel Parra-Amado"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":8,
+         "fechaTiempo1":"20231024 12:20",
+         "fechaTiempo2":"20231024 13:20",
+         "titulo":"Receso",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231024-5-3",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":9,
+         "fechaTiempo1":"20231024 13:20",
+         "fechaTiempo2":"20231024 14:50",
+         "titulo":"Sesión 2: Taller práctico (virtual)",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231024-6",
+         "codigoHijo":"",
+         "expositor":[
+            "Daniel Parra-Amado"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":10,
+         "fechaTiempo1":"20231024 14:50",
+         "fechaTiempo2":"20231024 15:05",
+         "titulo":"Receso",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231024-6-1",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":11,
+         "fechaTiempo1":"20231024 15:05",
+         "fechaTiempo2":"20231024 16:20",
+         "titulo":"Sesión 2: Taller práctico (virtual) - Continuación",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231024-6-2",
+         "expositor":[
+            "Daniel Parra-Amado"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":12,
+         "fechaTiempo1":"20231025 09:00",
+         "fechaTiempo2":"20231025 10:30",
+         "titulo":"Sesión 3: Introducción a Machine Learning (virtual)",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231025-7",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":13,
+         "fechaTiempo1":"20231025 10:30",
+         "fechaTiempo2":"20231025 10:45",
+         "titulo":"Receso",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231025-7-1",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":14,
+         "fechaTiempo1":"20231025 10:45",
+         "fechaTiempo2":"20231025 12:00",
+         "titulo":"Sesión 3: Introducción a Machine Learning (virtual) - Continuación",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231025-7-2",
+         "expositor":[
+            "Daniel Parra-Amado"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":15,
+         "fechaTiempo1":"20231025 12:00",
+         "fechaTiempo2":"20231025 13:00",
+         "titulo":"Receso",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231025-7-3",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":16,
+         "fechaTiempo1":"20231025 13:00",
+         "fechaTiempo2":"20231025 14:30",
+         "titulo":"Sesión 4: Taller práctico (virtual)",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231025-8",
+         "codigoHijo":"",
+         "expositor":[
+            "Daniel Parra-Amado"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":17,
+         "fechaTiempo1":"20231025 14:30",
+         "fechaTiempo2":"20231025 14:45",
+         "titulo":"Receso",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231025-8-1",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":18,
+         "fechaTiempo1":"20231025 14:45",
+         "fechaTiempo2":"20231025 16:00",
+         "titulo":"Sesión 4: Taller práctico (virtual) - Continuación",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231025-8-2",
+         "expositor":[
+            "Daniel Parra-Amado"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":19,
+         "fechaTiempo1":"20231025 16:00",
+         "fechaTiempo2":"20231025 18:00",
+         "titulo":"Salas paralelas",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231025-20",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":20,
+         "fechaTiempo1":"20231025 16:00",
+         "fechaTiempo2":"20231025 18:00",
+         "titulo":"Salas paralelas",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231025-20-1",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            "https://eeb.bcb.gob.bo/content/salas-paralelas-miercoles-25-de-octubre-de-2023"
+         ],
+         "tipoT":[
+            "Salas"
+         ]
+      },
+      {
+         "orden":21,
+         "fechaTiempo1":"20231026 07:00",
+         "fechaTiempo2":"20231026 08:50",
+         "titulo":"Registro de participantes",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231026-9",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":22,
+         "fechaTiempo1":"20231026 08:50",
+         "fechaTiempo2":"20231026 09:00",
+         "titulo":"Palabras de circunstancia",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231026-9-1",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":23,
+         "fechaTiempo1":"20231026 09:00",
+         "fechaTiempo2":"20231026 09:10",
+         "titulo":"Palabras de bienvenida",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231026-9-2",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":24,
+         "fechaTiempo1":"20231026 09:10",
+         "fechaTiempo2":"20231026 09:40",
+         "titulo":"Palabras de inauguración",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231026-9-3",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":25,
+         "fechaTiempo1":"20231026 09:40",
+         "fechaTiempo2":"20231026 10:25",
+         "titulo":"Políticas económicas para mantener un crecimiento económico sostenido",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":true,
+         "codigoExpositor":"agalindo",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231026-10",
+         "codigoHijo":"",
+         "expositor":[
+            "Arturo José Galindo Andrade"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":26,
+         "fechaTiempo1":"20231026 09:40",
+         "fechaTiempo2":"20231026 10:25",
+         "titulo":"Políticas económicas para mantener un crecimiento económico sostenido",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":true,
+         "codigoExpositor":"agalindo",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231026-10-1",
+         "expositor":[
+            "Arturo José Galindo Andrade"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":27,
+         "fechaTiempo1":"20231026 10:25",
+         "fechaTiempo2":"20231026 10:45",
+         "titulo":"Refrigerio",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231026-11",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":28,
+         "fechaTiempo1":"20231026 10:45",
+         "fechaTiempo2":"20231026 11:30",
+         "titulo":"Consideraciones sobre la implementación de políticas monetarias enfocadas al control de presiones inflacionarias",
+         "lugar":"",
+         "adicional":"Director de Estudios Económicos del Fondo Latinoamericano de Reservas",
+         "detalleExpositor":true,
+         "codigoExpositor":"cgiraldo",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231026-12",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":29,
+         "fechaTiempo1":"20231026 10:45",
+         "fechaTiempo2":"20231026 11:30",
+         "titulo":"Consideraciones sobre la implementación de políticas monetarias enfocadas al control de presiones inflacionarias",
+         "lugar":"",
+         "adicional":"Director de Estudios Económicos del Fondo Latinoamericano de Reservas",
+         "detalleExpositor":true,
+         "codigoExpositor":"cgiraldo",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231026-12-1",
+         "expositor":[
+            "Carlos Giraldo"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":30,
+         "fechaTiempo1":"20231026 11:30",
+         "fechaTiempo2":"20231026 12:15",
+         "titulo":"Políticas económicas para mantener un crecimiento económico sostenido en un escenario adverso",
+         "lugar":"",
+         "adicional":"Ex Directora Nacional de Economía, Igualdad y Género de Argentina",
+         "detalleExpositor":true,
+         "codigoExpositor":"malessandro",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231026-13",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":31,
+         "fechaTiempo1":"20231026 11:30",
+         "fechaTiempo2":"20231026 12:15",
+         "titulo":"Políticas económicas para mantener un crecimiento económico sostenido en un escenario adverso",
+         "lugar":"",
+         "adicional":"Ex Directora Nacional de Economía, Igualdad y Género de Argentina",
+         "detalleExpositor":true,
+         "codigoExpositor":"malessandro",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231026-13-1",
+         "expositor":[
+            "Mercedes D’Alessandro"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":32,
+         "fechaTiempo1":"20231026 15:30",
+         "fechaTiempo2":"20231026 17:30",
+         "titulo":"Salas paralelas",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231026-30",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":33,
+         "fechaTiempo1":"20231026 15:30",
+         "fechaTiempo2":"20231026 17:30",
+         "titulo":"Salas paralelas",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231026-30-1",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            "https://eeb.bcb.gob.bo/content/salas-paralelas-jueves-26-de-octubre-de-2023"
+         ],
+         "tipoT":[
+            "Salas"
+         ]
+      },
+      {
+         "orden":34,
+         "fechaTiempo1":"20231027 07:30",
+         "fechaTiempo2":"20231027 08:45",
+         "titulo":"Registro de participantes",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-14",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":35,
+         "fechaTiempo1":"20231027 08:45",
+         "fechaTiempo2":"20231027 09:30",
+         "titulo":"Los CBDC y sus implicancias de política monetaria en los bancos centrales",
+         "lugar":"",
+         "adicional":"Gerente de Política Económica y Mercados del Banco Central del Uruguay",
+         "detalleExpositor":true,
+         "codigoExpositor":"jsarmiento",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-15",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":36,
+         "fechaTiempo1":"20231027 08:45",
+         "fechaTiempo2":"20231027 09:30",
+         "titulo":"Los CBDC y sus implicancias de política monetaria en los bancos centrales",
+         "lugar":"",
+         "adicional":"Gerente de Política Económica y Mercados del Banco Central del Uruguay",
+         "detalleExpositor":true,
+         "codigoExpositor":"jsarmiento",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231027-15-1",
+         "expositor":[
+            "Adolfo Sarmiento"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":37,
+         "fechaTiempo1":"20231027 09:30",
+         "fechaTiempo2":"20231027 10:15",
+         "titulo":"Políticas sociales para el fortalecimiento de la recuperación económica",
+         "lugar":"",
+         "adicional":"Director del departamento de economía de la Universidad de Buenos Aires",
+         "detalleExpositor":true,
+         "codigoExpositor":"jcurcio",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-16",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":38,
+         "fechaTiempo1":"20231027 09:30",
+         "fechaTiempo2":"20231027 10:15",
+         "titulo":"Políticas sociales para el fortalecimiento de la recuperación económica",
+         "lugar":"",
+         "adicional":"Director del departamento de economía de la Universidad de Buenos Aires",
+         "detalleExpositor":true,
+         "codigoExpositor":"jcurcio",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231027-16-1",
+         "expositor":[
+            "Javier Curcio"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":39,
+         "fechaTiempo1":"20231027 10:15",
+         "fechaTiempo2":"20231027 10:35",
+         "titulo":"Refrigerio",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-17",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":40,
+         "fechaTiempo1":"20231027 10:35",
+         "fechaTiempo2":"20231027 11:20",
+         "titulo":"Relevancia de la demanda interna para contener las amenazas de desaceleración global",
+         "lugar":"",
+         "adicional":"Profesor de la Universidad Federal de Pará",
+         "detalleExpositor":true,
+         "codigoExpositor":"ccastelo",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-18",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":41,
+         "fechaTiempo1":"20231027 10:35",
+         "fechaTiempo2":"20231027 11:20",
+         "titulo":"Relevancia de la demanda interna para contener las amenazas de desaceleración global",
+         "lugar":"",
+         "adicional":"Profesor de la Universidad Federal de Pará",
+         "detalleExpositor":true,
+         "codigoExpositor":"ccastelo",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":false,
+         "codigoPadre":"",
+         "codigoHijo":"20231027-18-1",
+         "expositor":[
+            "Claudio Alberto Castelo Branco Puty"
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":42,
+         "fechaTiempo1":"20231027 11:20",
+         "fechaTiempo2":"20231027 11:50",
+         "titulo":"Premiación a los ganadores del concurso de documentos",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-19",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":43,
+         "fechaTiempo1":"20231027 11:50",
+         "fechaTiempo2":"20231027 11:55",
+         "titulo":"Palabras de circunstancia Ganador de la categoría Tema Central",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-20",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":44,
+         "fechaTiempo1":"20231027 11:55",
+         "fechaTiempo2":"20231027 12:05",
+         "titulo":"Palabras de conclusión del evento",
+         "lugar":"",
+         "adicional":"Presidente a.i.",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-21",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
+      },
+      {
+         "orden":45,
+         "fechaTiempo1":"20231027 12:05",
+         "fechaTiempo2":"20231027 12:35",
+         "titulo":"Palabras de clausura",
+         "lugar":"",
+         "adicional":"",
+         "detalleExpositor":false,
+         "codigoExpositor":"",
+         "detallePrograma":false,
+         "codigoDetalle":"",
+         "padre":true,
+         "codigoPadre":"20231027-22",
+         "codigoHijo":"",
+         "expositor":[
+            
+         ],
+         "enlaceT":[
+            
+         ],
+         "tipoT":[
+            
+         ]
       }
    ]
 }
