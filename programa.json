@@ -156,8 +156,8 @@
          "detallePrograma":false,
          "codigoDetalle":"",
          "padre":false,
-         "codigoPadre":"20231024-5-2",
-         "codigoHijo":"",
+         "codigoPadre":"",
+         "codigoHijo":"20231024-5-2",
          "expositor":[
             "Daniel Parra-Amado"
          ],
@@ -364,16 +364,16 @@
          "orden":16,
          "fechaTiempo1":"20231025 13:00",
          "fechaTiempo2":"20231025 14:30",
-         "titulo":"Sesión 3: Introducción a Machine Learning (virtual) - Continuación",
+         "titulo":"Sesión 4: Taller práctico (virtual)",
          "lugar":"",
          "adicional":"",
          "detalleExpositor":false,
          "codigoExpositor":"",
          "detallePrograma":false,
          "codigoDetalle":"",
-         "padre":false,
-         "codigoPadre":"",
-         "codigoHijo":"20231025-7-4",
+         "padre":true,
+         "codigoPadre":"20231025-8",
+         "codigoHijo":"",
          "expositor":[
             "Daniel Parra-Amado"
          ],
@@ -397,7 +397,7 @@
          "codigoDetalle":"",
          "padre":false,
          "codigoPadre":"",
-         "codigoHijo":"20231025-7-5",
+         "codigoHijo":"20231025-8-1",
          "expositor":[
             
          ],
@@ -421,7 +421,7 @@
          "codigoDetalle":"",
          "padre":false,
          "codigoPadre":"",
-         "codigoHijo":"20231025-7-6",
+         "codigoHijo":"20231025-8-2",
          "expositor":[
             "Daniel Parra-Amado"
          ],
@@ -444,7 +444,7 @@
          "detallePrograma":false,
          "codigoDetalle":"",
          "padre":true,
-         "codigoPadre":"20231026-8",
+         "codigoPadre":"20231026-9",
          "codigoHijo":"",
          "expositor":[
             
@@ -469,7 +469,7 @@
          "codigoDetalle":"",
          "padre":false,
          "codigoPadre":"",
-         "codigoHijo":"20231026-8-1",
+         "codigoHijo":"20231026-9-1",
          "expositor":[
             
          ],
@@ -493,7 +493,7 @@
          "codigoDetalle":"",
          "padre":false,
          "codigoPadre":"",
-         "codigoHijo":"20231026-8-2",
+         "codigoHijo":"20231026-9-2",
          "expositor":[
             
          ],
@@ -517,7 +517,7 @@
          "codigoDetalle":"",
          "padre":false,
          "codigoPadre":"",
-         "codigoHijo":"20231026-8-3",
+         "codigoHijo":"20231026-9-3",
          "expositor":[
             
          ],
@@ -535,12 +535,12 @@
          "titulo":"Políticas económicas para mantener un crecimiento económico sostenido",
          "lugar":"",
          "adicional":"",
-         "detalleExpositor":false,
-         "codigoExpositor":"",
+         "detalleExpositor":true,
+         "codigoExpositor":"agalindo",
          "detallePrograma":false,
          "codigoDetalle":"",
          "padre":true,
-         "codigoPadre":"20231026-9",
+         "codigoPadre":"20231026-10",
          "codigoHijo":"",
          "expositor":[
             
@@ -559,13 +559,13 @@
          "titulo":"Políticas económicas para mantener un crecimiento económico sostenido",
          "lugar":"",
          "adicional":"",
-         "detalleExpositor":false,
-         "codigoExpositor":"",
+         "detalleExpositor":true,
+         "codigoExpositor":"agalindo",
          "detallePrograma":false,
          "codigoDetalle":"",
          "padre":false,
          "codigoPadre":"",
-         "codigoHijo":"20231026-9-1",
+         "codigoHijo":"20231026-10-1",
          "expositor":[
             
          ],
@@ -588,7 +588,7 @@
          "detallePrograma":false,
          "codigoDetalle":"",
          "padre":true,
-         "codigoPadre":"20231026-10",
+         "codigoPadre":"20231026-11",
          "codigoHijo":"",
          "expositor":[
             
@@ -612,7 +612,7 @@
          "detallePrograma":false,
          "codigoDetalle":"",
          "padre":true,
-         "codigoPadre":"20231026-11",
+         "codigoPadre":"20231026-12",
          "codigoHijo":"",
          "expositor":[
             
@@ -637,7 +637,7 @@
          "codigoDetalle":"",
          "padre":false,
          "codigoPadre":"",
-         "codigoHijo":"20231026-11-1",
+         "codigoHijo":"20231026-12-1",
          "expositor":[
             "Carlos Giraldo"
          ],
@@ -660,7 +660,7 @@
          "detallePrograma":false,
          "codigoDetalle":"",
          "padre":true,
-         "codigoPadre":"20231026-12",
+         "codigoPadre":"20231026-13",
          "codigoHijo":"",
          "expositor":[
             
@@ -685,7 +685,7 @@
          "codigoDetalle":"",
          "padre":false,
          "codigoPadre":"",
-         "codigoHijo":"20231026-12-1",
+         "codigoHijo":"20231026-13-1",
          "expositor":[
             "Mercedes D’Alessandro"
          ],
@@ -708,7 +708,7 @@
          "detallePrograma":false,
          "codigoDetalle":"",
          "padre":true,
-         "codigoPadre":"20231027-13",
+         "codigoPadre":"20231027-14",
          "codigoHijo":"",
          "expositor":[
             
@@ -732,7 +732,7 @@
          "detallePrograma":false,
          "codigoDetalle":"",
          "padre":true,
-         "codigoPadre":"20231027-14",
+         "codigoPadre":"20231027-15",
          "codigoHijo":"",
          "expositor":[
             
@@ -757,7 +757,7 @@
          "codigoDetalle":"",
          "padre":false,
          "codigoPadre":"",
-         "codigoHijo":"20231027-14-1",
+         "codigoHijo":"20231027-15-1",
          "expositor":[
             "Adolfo Sarmiento"
          ],
@@ -780,7 +780,7 @@
          "detallePrograma":false,
          "codigoDetalle":"",
          "padre":true,
-         "codigoPadre":"20231027-15",
+         "codigoPadre":"20231027-16",
          "codigoHijo":"",
          "expositor":[
             
@@ -805,7 +805,7 @@
          "codigoDetalle":"",
          "padre":false,
          "codigoPadre":"",
-         "codigoHijo":"20231027-15-1",
+         "codigoHijo":"20231027-16-1",
          "expositor":[
             "Javier Curcio"
          ],
@@ -828,7 +828,7 @@
          "detallePrograma":false,
          "codigoDetalle":"",
          "padre":true,
-         "codigoPadre":"20231027-16",
+         "codigoPadre":"20231027-17",
          "codigoHijo":"",
          "expositor":[
             
@@ -852,7 +852,7 @@
          "detallePrograma":false,
          "codigoDetalle":"",
          "padre":true,
-         "codigoPadre":"20231027-17",
+         "codigoPadre":"20231027-18",
          "codigoHijo":"",
          "expositor":[
             
@@ -877,7 +877,7 @@
          "codigoDetalle":"",
          "padre":false,
          "codigoPadre":"",
-         "codigoHijo":"20231027-17-1",
+         "codigoHijo":"20231027-18-1",
          "expositor":[
             "Claudio Alberto Castelo Branco Puty"
          ],
@@ -900,7 +900,7 @@
          "detallePrograma":false,
          "codigoDetalle":"",
          "padre":true,
-         "codigoPadre":"20231027-18",
+         "codigoPadre":"20231027-19",
          "codigoHijo":"",
          "expositor":[
             
@@ -924,7 +924,7 @@
          "detallePrograma":false,
          "codigoDetalle":"",
          "padre":true,
-         "codigoPadre":"20231027-19",
+         "codigoPadre":"20231027-20",
          "codigoHijo":"",
          "expositor":[
             
@@ -948,7 +948,7 @@
          "detallePrograma":false,
          "codigoDetalle":"",
          "padre":true,
-         "codigoPadre":"20231027-20",
+         "codigoPadre":"20231027-21",
          "codigoHijo":"",
          "expositor":[
             
@@ -972,7 +972,7 @@
          "detallePrograma":false,
          "codigoDetalle":"",
          "padre":true,
-         "codigoPadre":"20231027-21",
+         "codigoPadre":"20231027-22",
          "codigoHijo":"",
          "expositor":[
             
