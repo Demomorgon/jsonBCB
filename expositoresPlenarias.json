@@ -1,7 +1,7 @@
 {
    "listExpositor":[
       {
-         "orden":0,
+         "orden":1,
          "id":"cgiraldo",
          "nombre":"Carlos Giraldo",
          "rango":"Director de Estudios Económicos del Fondo Latinoamericano de Reservas",
@@ -16,7 +16,7 @@
          "fechaExposicion":"20231026"
       },
       {
-         "orden":0,
+         "orden":2,
          "id":"malessandro",
          "nombre":"Mercedes D'Alessandro",
          "rango":"Ex Directora Nacional de Economía, Igualdad y Género de Argentina",
@@ -31,7 +31,7 @@
          "fechaExposicion":"20231026 11:30"
       },
       {
-         "orden":0,
+         "orden":3,
          "id":"jsarmiento",
          "nombre":"José Adolfo Sarmiento",
          "rango":"Gerente de Política Económica y Mercados del Banco Central del Uruguay",
@@ -46,7 +46,7 @@
          "fechaExposicion":"20231027 08:45"
       },
       {
-         "orden":0,
+         "orden":4,
          "id":"jcurcio",
          "nombre":"Javier Adrián Curcio",
          "rango":"Director del departamento de economía de la Universidad de Buenos Aires",
@@ -61,7 +61,7 @@
          "fechaExposicion":"20231027 09:30"
       },
       {
-         "orden":1,
+         "orden":5,
          "id":"ccastelo",
          "nombre":"Claudio Alberto Castelo Branco",
          "rango":"Profesor de la Universidad Federal de Pará",
